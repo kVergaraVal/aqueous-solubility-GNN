@@ -1,0 +1,1110 @@
+Training MSE for split 0 in trial 0 is: 0.6393837635897908
+Validation MSE for split 0 in trial 0 is: 1.1403897004798114
+Training MSE for split 1 in trial 0 is: 0.6364804854159455
+Validation MSE for split 1 in trial 0 is: 1.239359528282186
+Training MSE for split 2 in trial 0 is: 0.6278564110661407
+Validation MSE for split 2 in trial 0 is: 1.2665075569253874
+Training MSE for split 3 in trial 0 is: 0.6400897298588412
+Validation MSE for split 3 in trial 0 is: 1.2386597703629842
+Training MSE for split 4 in trial 0 is: 0.6296361795889643
+Validation MSE for split 4 in trial 0 is: 1.1999665769586056
+Validation MSE mean for trial 0 is: 1.2169766266017947
+Training MSE for split 0 in trial 1 is: 1.7788659623734442
+Validation MSE for split 0 in trial 1 is: 1.7621226098523624
+Training MSE for split 1 in trial 1 is: 1.7546219514929031
+Validation MSE for split 1 in trial 1 is: 1.9506009015299648
+Training MSE for split 2 in trial 1 is: 1.7620663463491968
+Validation MSE for split 2 in trial 1 is: 1.9450493772764341
+Training MSE for split 3 in trial 1 is: 1.7626952167552106
+Validation MSE for split 3 in trial 1 is: 1.8248726067373184
+Training MSE for split 4 in trial 1 is: 1.7807039475344215
+Validation MSE for split 4 in trial 1 is: 1.8454198446806769
+Validation MSE mean for trial 1 is: 1.8656130680153513
+Training MSE for split 0 in trial 2 is: 0.6051733575026955
+Validation MSE for split 0 in trial 2 is: 1.1429019169884083
+Training MSE for split 1 in trial 2 is: 0.6058789001533698
+Validation MSE for split 1 in trial 2 is: 1.2029455119506116
+Training MSE for split 2 in trial 2 is: 0.5967227160163437
+Validation MSE for split 2 in trial 2 is: 1.2361005149301263
+Training MSE for split 3 in trial 2 is: 0.6050748418218378
+Validation MSE for split 3 in trial 2 is: 1.2234738390823958
+Training MSE for split 4 in trial 2 is: 0.5956679804174788
+Validation MSE for split 4 in trial 2 is: 1.1811084485697445
+Validation MSE mean for trial 2 is: 1.197306046304257
+Training MSE for split 0 in trial 3 is: 0.10929690887545776
+Validation MSE for split 0 in trial 3 is: 1.3777273829037844
+Training MSE for split 1 in trial 3 is: 0.10794799840955381
+Validation MSE for split 1 in trial 3 is: 1.3864983318645188
+Training MSE for split 2 in trial 3 is: 0.10815232687643812
+Validation MSE for split 2 in trial 3 is: 1.4598795295458107
+Training MSE for split 3 in trial 3 is: 0.10062065753345972
+Validation MSE for split 3 in trial 3 is: 1.477074899465078
+Training MSE for split 4 in trial 3 is: 0.1057571510100968
+Validation MSE for split 4 in trial 3 is: 1.4379422438312537
+Validation MSE mean for trial 3 is: 1.4278244775220892
+Training MSE for split 0 in trial 4 is: 0.10931877375140162
+Validation MSE for split 0 in trial 4 is: 1.2768280228248112
+Training MSE for split 1 in trial 4 is: 0.10796310767654581
+Validation MSE for split 1 in trial 4 is: 1.3024730881411837
+Training MSE for split 2 in trial 4 is: 0.10817213152809409
+Validation MSE for split 2 in trial 4 is: 1.374101521139054
+Training MSE for split 3 in trial 4 is: 0.10063846745001515
+Validation MSE for split 3 in trial 4 is: 1.368887973705498
+Training MSE for split 4 in trial 4 is: 0.10577596678585181
+Validation MSE for split 4 in trial 4 is: 1.3424312996516665
+Validation MSE mean for trial 4 is: 1.3329443810924428
+Training MSE for split 0 in trial 5 is: 0.10958290903259531
+Validation MSE for split 0 in trial 5 is: 1.2651419096109646
+Training MSE for split 1 in trial 5 is: 0.10852591793613182
+Validation MSE for split 1 in trial 5 is: 1.2738052583888688
+Training MSE for split 2 in trial 5 is: 0.10884209366609135
+Validation MSE for split 2 in trial 5 is: 1.3442651655658653
+Training MSE for split 3 in trial 5 is: 0.10107857507886323
+Validation MSE for split 3 in trial 5 is: 1.3451602739093862
+Training MSE for split 4 in trial 5 is: 0.1064029326909964
+Validation MSE for split 4 in trial 5 is: 1.3334554135570094
+Validation MSE mean for trial 5 is: 1.3123656042064191
+Training MSE for split 0 in trial 6 is: 0.10930670022282352
+Validation MSE for split 0 in trial 6 is: 1.369681247014272
+Training MSE for split 1 in trial 6 is: 0.10795045993878079
+Validation MSE for split 1 in trial 6 is: 1.3940002163057594
+Training MSE for split 2 in trial 6 is: 0.10815535783311338
+Validation MSE for split 2 in trial 6 is: 1.4258842539896792
+Training MSE for split 3 in trial 6 is: 0.1006231973425536
+Validation MSE for split 3 in trial 6 is: 1.46851589203522
+Training MSE for split 4 in trial 6 is: 0.10575947455919807
+Validation MSE for split 4 in trial 6 is: 1.4119146663913853
+Validation MSE mean for trial 6 is: 1.413999255147263
+Training MSE for split 0 in trial 7 is: 0.1101896939365184
+Validation MSE for split 0 in trial 7 is: 1.240348228498804
+Training MSE for split 1 in trial 7 is: 0.10902216121606075
+Validation MSE for split 1 in trial 7 is: 1.2588227642964693
+Training MSE for split 2 in trial 7 is: 0.1090407564895323
+Validation MSE for split 2 in trial 7 is: 1.33994890097316
+Training MSE for split 3 in trial 7 is: 0.1019965369275154
+Validation MSE for split 3 in trial 7 is: 1.3227214619907781
+Training MSE for split 4 in trial 7 is: 0.10649079312131529
+Validation MSE for split 4 in trial 7 is: 1.3218758206616832
+Validation MSE mean for trial 7 is: 1.296743435284179
+Training MSE for split 0 in trial 8 is: 0.10929648966471933
+Validation MSE for split 0 in trial 8 is: 1.3744587669914923
+Training MSE for split 1 in trial 8 is: 0.10794799366876834
+Validation MSE for split 1 in trial 8 is: 1.3917305456124873
+Training MSE for split 2 in trial 8 is: 0.10815175186697365
+Validation MSE for split 2 in trial 8 is: 1.4798676701021216
+Training MSE for split 3 in trial 8 is: 0.10062113233898788
+Validation MSE for split 3 in trial 8 is: 1.4807529511800086
+Training MSE for split 4 in trial 8 is: 0.1057574771864925
+Validation MSE for split 4 in trial 8 is: 1.426414059803622
+Validation MSE mean for trial 8 is: 1.4306447987379465
+Training MSE for split 0 in trial 9 is: 0.19468984810684534
+Validation MSE for split 0 in trial 9 is: 1.1066186568357885
+Training MSE for split 1 in trial 9 is: 0.18676817241043664
+Validation MSE for split 1 in trial 9 is: 1.1886757224135136
+Training MSE for split 2 in trial 9 is: 0.17976952983133462
+Validation MSE for split 2 in trial 9 is: 1.197733892952807
+Training MSE for split 3 in trial 9 is: 0.18294050686131577
+Validation MSE for split 3 in trial 9 is: 1.2234136172435897
+Training MSE for split 4 in trial 9 is: 0.18925045136592608
+Validation MSE for split 4 in trial 9 is: 1.1849822336633289
+Validation MSE mean for trial 9 is: 1.1802848246218054
+Training MSE for split 0 in trial 10 is: 0.5714657802972358
+Validation MSE for split 0 in trial 10 is: 1.1779101422762468
+Training MSE for split 1 in trial 10 is: 0.5658624496941377
+Validation MSE for split 1 in trial 10 is: 1.2890942640927112
+Training MSE for split 2 in trial 10 is: 0.561535753634961
+Validation MSE for split 2 in trial 10 is: 1.2817091521491013
+Training MSE for split 3 in trial 10 is: 0.5542164550608176
+Validation MSE for split 3 in trial 10 is: 1.2582326009245872
+Training MSE for split 4 in trial 10 is: 0.5558083442437807
+Validation MSE for split 4 in trial 10 is: 1.2329836984790157
+Validation MSE mean for trial 10 is: 1.2479859715843324
+Training MSE for split 0 in trial 11 is: 0.5916352044805246
+Validation MSE for split 0 in trial 11 is: 1.1482595026816438
+Training MSE for split 1 in trial 11 is: 0.6223668019851109
+Validation MSE for split 1 in trial 11 is: 1.245829955136387
+Training MSE for split 2 in trial 11 is: 0.6080043161402885
+Validation MSE for split 2 in trial 11 is: 1.2505040149357471
+Training MSE for split 3 in trial 11 is: 0.6065192002679016
+Validation MSE for split 3 in trial 11 is: 1.2173018175863535
+Training MSE for split 4 in trial 11 is: 0.6055327964636904
+Validation MSE for split 4 in trial 11 is: 1.2021539473562814
+Validation MSE mean for trial 11 is: 1.2128098475392826
+Training MSE for split 0 in trial 12 is: 0.9046274909375079
+Validation MSE for split 0 in trial 12 is: 1.2652788294969741
+Training MSE for split 1 in trial 12 is: 0.8889066328584361
+Validation MSE for split 1 in trial 12 is: 1.3508684246713354
+Training MSE for split 2 in trial 12 is: 0.8901243312718844
+Validation MSE for split 2 in trial 12 is: 1.3677329958057756
+Training MSE for split 3 in trial 12 is: 0.9075224757277002
+Validation MSE for split 3 in trial 12 is: 1.3417203308924261
+Training MSE for split 4 in trial 12 is: 0.8980191736034482
+Validation MSE for split 4 in trial 12 is: 1.3082273595692873
+Validation MSE mean for trial 12 is: 1.3267655880871598
+Training MSE for split 0 in trial 13 is: 1.7779910421934202
+Validation MSE for split 0 in trial 13 is: 1.7320070914652457
+Training MSE for split 1 in trial 13 is: 1.7488642858880412
+Validation MSE for split 1 in trial 13 is: 1.9177285020968684
+Training MSE for split 2 in trial 13 is: 1.7458757674756638
+Validation MSE for split 2 in trial 13 is: 1.9065091171230355
+Training MSE for split 3 in trial 13 is: 1.7575245603076486
+Validation MSE for split 3 in trial 13 is: 1.8101632289522565
+Training MSE for split 4 in trial 13 is: 1.769650317310507
+Validation MSE for split 4 in trial 13 is: 1.795487181564055
+Validation MSE mean for trial 13 is: 1.8323790242402922
+Training MSE for split 0 in trial 14 is: 0.2950585919116805
+Validation MSE for split 0 in trial 14 is: 1.1289992900827734
+Training MSE for split 1 in trial 14 is: 0.28866478684108876
+Validation MSE for split 1 in trial 14 is: 1.2291652635262924
+Training MSE for split 2 in trial 14 is: 0.2842239940473259
+Validation MSE for split 2 in trial 14 is: 1.2501765694947629
+Training MSE for split 3 in trial 14 is: 0.27591935992744593
+Validation MSE for split 3 in trial 14 is: 1.2355126263716538
+Training MSE for split 4 in trial 14 is: 0.2840013421744115
+Validation MSE for split 4 in trial 14 is: 1.2164466569907764
+Validation MSE mean for trial 14 is: 1.2120600812932518
+Training MSE for split 0 in trial 15 is: 0.2545859473738909
+Validation MSE for split 0 in trial 15 is: 1.1232404800220532
+Training MSE for split 1 in trial 15 is: 0.25234395552183303
+Validation MSE for split 1 in trial 15 is: 1.211977758660392
+Training MSE for split 2 in trial 15 is: 0.259238266363745
+Validation MSE for split 2 in trial 15 is: 1.2423077815760237
+Training MSE for split 3 in trial 15 is: 0.24809309493370088
+Validation MSE for split 3 in trial 15 is: 1.2275551239770583
+Training MSE for split 4 in trial 15 is: 0.24855897149932246
+Validation MSE for split 4 in trial 15 is: 1.2014574255093613
+Validation MSE mean for trial 15 is: 1.2013077139489776
+Training MSE for split 0 in trial 16 is: 0.6160550926701844
+Validation MSE for split 0 in trial 16 is: 1.1524555009528203
+Training MSE for split 1 in trial 16 is: 0.6059715543588008
+Validation MSE for split 1 in trial 16 is: 1.2183078897355042
+Training MSE for split 2 in trial 16 is: 0.6181694759681302
+Validation MSE for split 2 in trial 16 is: 1.2377347594995565
+Training MSE for split 3 in trial 16 is: 0.611308938462452
+Validation MSE for split 3 in trial 16 is: 1.2300322234297478
+Training MSE for split 4 in trial 16 is: 0.6085848770670674
+Validation MSE for split 4 in trial 16 is: 1.1748815283325995
+Validation MSE mean for trial 16 is: 1.2026823803900455
+Training MSE for split 0 in trial 17 is: 0.1336247552040004
+Validation MSE for split 0 in trial 17 is: 1.0870639728902343
+Training MSE for split 1 in trial 17 is: 0.13386861114108875
+Validation MSE for split 1 in trial 17 is: 1.1888207174309884
+Training MSE for split 2 in trial 17 is: 0.1311542073171473
+Validation MSE for split 2 in trial 17 is: 1.224414331689099
+Training MSE for split 3 in trial 17 is: 0.12430747276634216
+Validation MSE for split 3 in trial 17 is: 1.2406843473838114
+Training MSE for split 4 in trial 17 is: 0.12777942659307764
+Validation MSE for split 4 in trial 17 is: 1.1904442324542508
+Validation MSE mean for trial 17 is: 1.1862855203696767
+Training MSE for split 0 in trial 18 is: 0.11144420879357192
+Validation MSE for split 0 in trial 18 is: 1.316469068838338
+Training MSE for split 1 in trial 18 is: 0.10995543461768315
+Validation MSE for split 1 in trial 18 is: 1.323781249787305
+Training MSE for split 2 in trial 18 is: 0.11006820790826012
+Validation MSE for split 2 in trial 18 is: 1.4147946157285003
+Training MSE for split 3 in trial 18 is: 0.10243041670053818
+Validation MSE for split 3 in trial 18 is: 1.3983203337829613
+Training MSE for split 4 in trial 18 is: 0.10802353509373945
+Validation MSE for split 4 in trial 18 is: 1.3794360772566079
+Validation MSE mean for trial 18 is: 1.3665602690787424
+Training MSE for split 0 in trial 19 is: 0.37080969840161737
+Validation MSE for split 0 in trial 19 is: 1.0943860102419998
+Training MSE for split 1 in trial 19 is: 0.3731110278997679
+Validation MSE for split 1 in trial 19 is: 1.1780232703770557
+Training MSE for split 2 in trial 19 is: 0.3661839023719473
+Validation MSE for split 2 in trial 19 is: 1.1999949364631706
+Training MSE for split 3 in trial 19 is: 0.36293636488045367
+Validation MSE for split 3 in trial 19 is: 1.2036572735888356
+Training MSE for split 4 in trial 19 is: 0.3464149867297292
+Validation MSE for split 4 in trial 19 is: 1.1701147795269509
+Validation MSE mean for trial 19 is: 1.1692352540396027
+Training MSE for split 0 in trial 20 is: 0.14714032590921924
+Validation MSE for split 0 in trial 20 is: 1.1573518275440964
+Training MSE for split 1 in trial 20 is: 0.14679180498404468
+Validation MSE for split 1 in trial 20 is: 1.2048789835327471
+Training MSE for split 2 in trial 20 is: 0.1545877731916557
+Validation MSE for split 2 in trial 20 is: 1.2683840881767647
+Training MSE for split 3 in trial 20 is: 0.14267775199570806
+Validation MSE for split 3 in trial 20 is: 1.2459408008441402
+Training MSE for split 4 in trial 20 is: 0.1431466847391608
+Validation MSE for split 4 in trial 20 is: 1.2296384910404685
+Validation MSE mean for trial 20 is: 1.2212388382276433
+Training MSE for split 0 in trial 21 is: 0.17173377678278562
+Validation MSE for split 0 in trial 21 is: 1.0818607090809917
+Training MSE for split 1 in trial 21 is: 0.1621172973007893
+Validation MSE for split 1 in trial 21 is: 1.1662185628531427
+Training MSE for split 2 in trial 21 is: 0.16413502892316553
+Validation MSE for split 2 in trial 21 is: 1.1961212459796364
+Training MSE for split 3 in trial 21 is: 0.15828706837209802
+Validation MSE for split 3 in trial 21 is: 1.213747757498031
+Training MSE for split 4 in trial 21 is: 0.15727914430267456
+Validation MSE for split 4 in trial 21 is: 1.181182010384074
+Validation MSE mean for trial 21 is: 1.1678260571591752
+Training MSE for split 0 in trial 22 is: 0.15028853261803132
+Validation MSE for split 0 in trial 22 is: 1.0922727247295512
+Training MSE for split 1 in trial 22 is: 0.1504890031677625
+Validation MSE for split 1 in trial 22 is: 1.1818056473991767
+Training MSE for split 2 in trial 22 is: 0.15146259720053698
+Validation MSE for split 2 in trial 22 is: 1.205371650519956
+Training MSE for split 3 in trial 22 is: 0.1429403631786858
+Validation MSE for split 3 in trial 22 is: 1.2287279496337102
+Training MSE for split 4 in trial 22 is: 0.14851457356494685
+Validation MSE for split 4 in trial 22 is: 1.180385410592776
+Validation MSE mean for trial 22 is: 1.177712676575034
+Training MSE for split 0 in trial 23 is: 0.21637905931810156
+Validation MSE for split 0 in trial 23 is: 1.062166760023781
+Training MSE for split 1 in trial 23 is: 0.2132861683577821
+Validation MSE for split 1 in trial 23 is: 1.1649021162776372
+Training MSE for split 2 in trial 23 is: 0.21815415644105846
+Validation MSE for split 2 in trial 23 is: 1.1717942328343192
+Training MSE for split 3 in trial 23 is: 0.21252144648695717
+Validation MSE for split 3 in trial 23 is: 1.1992345229089723
+Training MSE for split 4 in trial 23 is: 0.21378969604293763
+Validation MSE for split 4 in trial 23 is: 1.150369702625141
+Validation MSE mean for trial 23 is: 1.14969346693397
+Training MSE for split 0 in trial 24 is: 0.4746038064851478
+Validation MSE for split 0 in trial 24 is: 1.099540479014692
+Training MSE for split 1 in trial 24 is: 0.472260663001121
+Validation MSE for split 1 in trial 24 is: 1.1972490825449014
+Training MSE for split 2 in trial 24 is: 0.4764975317191498
+Validation MSE for split 2 in trial 24 is: 1.2012779843440031
+Training MSE for split 3 in trial 24 is: 0.4848656062677791
+Validation MSE for split 3 in trial 24 is: 1.1929735135380635
+Training MSE for split 4 in trial 24 is: 0.48923001697749136
+Validation MSE for split 4 in trial 24 is: 1.1789411377875962
+Validation MSE mean for trial 24 is: 1.1739964394458515
+Training MSE for split 0 in trial 25 is: 1.1250713511774586
+Validation MSE for split 0 in trial 25 is: 1.3269709571372161
+Training MSE for split 1 in trial 25 is: 1.1267249006217595
+Validation MSE for split 1 in trial 25 is: 1.47615213265496
+Training MSE for split 2 in trial 25 is: 1.1094860643401228
+Validation MSE for split 2 in trial 25 is: 1.4524462662143125
+Training MSE for split 3 in trial 25 is: 1.1192272218779666
+Validation MSE for split 3 in trial 25 is: 1.3974167046114048
+Training MSE for split 4 in trial 25 is: 1.132134627843558
+Validation MSE for split 4 in trial 25 is: 1.3436840580528602
+Validation MSE mean for trial 25 is: 1.3993340237341507
+Training MSE for split 0 in trial 26 is: 0.10971434031818221
+Validation MSE for split 0 in trial 26 is: 1.2889487911146313
+Training MSE for split 1 in trial 26 is: 0.10846977582914918
+Validation MSE for split 1 in trial 26 is: 1.322758300493418
+Training MSE for split 2 in trial 26 is: 0.10849643024910255
+Validation MSE for split 2 in trial 26 is: 1.3860725607089635
+Training MSE for split 3 in trial 26 is: 0.10115796446384337
+Validation MSE for split 3 in trial 26 is: 1.3930878771538713
+Training MSE for split 4 in trial 26 is: 0.10612719950793069
+Validation MSE for split 4 in trial 26 is: 1.356221849485663
+Validation MSE mean for trial 26 is: 1.3494178757913091
+Training MSE for split 0 in trial 27 is: 0.2623192990308715
+Validation MSE for split 0 in trial 27 is: 1.077363228536816
+Training MSE for split 1 in trial 27 is: 0.27378720090869746
+Validation MSE for split 1 in trial 27 is: 1.1524783643398027
+Training MSE for split 2 in trial 27 is: 0.26722825291528823
+Validation MSE for split 2 in trial 27 is: 1.1640860164435576
+Training MSE for split 3 in trial 27 is: 0.2643974322641264
+Validation MSE for split 3 in trial 27 is: 1.1912408838871136
+Training MSE for split 4 in trial 27 is: 0.26269997576275833
+Validation MSE for split 4 in trial 27 is: 1.1521786368400266
+Validation MSE mean for trial 27 is: 1.1474694260094633
+Training MSE for split 0 in trial 28 is: 0.1113791767955823
+Validation MSE for split 0 in trial 28 is: 1.186177404279842
+Training MSE for split 1 in trial 28 is: 0.11046302115343003
+Validation MSE for split 1 in trial 28 is: 1.2532890861122765
+Training MSE for split 2 in trial 28 is: 0.11088165753811183
+Validation MSE for split 2 in trial 28 is: 1.3025647618702718
+Training MSE for split 3 in trial 28 is: 0.102739656340659
+Validation MSE for split 3 in trial 28 is: 1.3152653281499818
+Training MSE for split 4 in trial 28 is: 0.10789831881665732
+Validation MSE for split 4 in trial 28 is: 1.2698706857332172
+Validation MSE mean for trial 28 is: 1.2654334532291178
+Training MSE for split 0 in trial 29 is: 0.7075049052719417
+Validation MSE for split 0 in trial 29 is: 1.1639101341794806
+Training MSE for split 1 in trial 29 is: 0.7145057774491337
+Validation MSE for split 1 in trial 29 is: 1.2528242075462486
+Training MSE for split 2 in trial 29 is: 0.71340551074379
+Validation MSE for split 2 in trial 29 is: 1.2870139008505999
+Training MSE for split 3 in trial 29 is: 0.703678315772877
+Validation MSE for split 3 in trial 29 is: 1.233227848401026
+Training MSE for split 4 in trial 29 is: 0.7028223069924642
+Validation MSE for split 4 in trial 29 is: 1.2027992212676382
+Validation MSE mean for trial 29 is: 1.2279550624489985
+Training MSE for split 0 in trial 30 is: 0.7972175399415478
+Validation MSE for split 0 in trial 30 is: 1.180440054598299
+Training MSE for split 1 in trial 30 is: 0.7966802824196216
+Validation MSE for split 1 in trial 30 is: 1.2846606199752162
+Training MSE for split 2 in trial 30 is: 0.8001516908268393
+Validation MSE for split 2 in trial 30 is: 1.2990437946905629
+Training MSE for split 3 in trial 30 is: 0.8007718015702238
+Validation MSE for split 3 in trial 30 is: 1.2863444542220865
+Training MSE for split 4 in trial 30 is: 0.7862950103165267
+Validation MSE for split 4 in trial 30 is: 1.2363795748938016
+Validation MSE mean for trial 30 is: 1.2573736996759932
+Training MSE for split 0 in trial 31 is: 0.307487723611299
+Validation MSE for split 0 in trial 31 is: 1.0830827882220104
+Training MSE for split 1 in trial 31 is: 0.3188258305531968
+Validation MSE for split 1 in trial 31 is: 1.1577346564266546
+Training MSE for split 2 in trial 31 is: 0.3177504053335187
+Validation MSE for split 2 in trial 31 is: 1.16484506161792
+Training MSE for split 3 in trial 31 is: 0.31046109157592694
+Validation MSE for split 3 in trial 31 is: 1.1928488773417993
+Training MSE for split 4 in trial 31 is: 0.3056990483543153
+Validation MSE for split 4 in trial 31 is: 1.1525087149440583
+Validation MSE mean for trial 31 is: 1.1502040197104886
+Training MSE for split 0 in trial 32 is: 0.575522815262455
+Validation MSE for split 0 in trial 32 is: 1.1403955776217567
+Training MSE for split 1 in trial 32 is: 0.5936040133169874
+Validation MSE for split 1 in trial 32 is: 1.2286478570627246
+Training MSE for split 2 in trial 32 is: 0.5982464487881891
+Validation MSE for split 2 in trial 32 is: 1.2498375641446489
+Training MSE for split 3 in trial 32 is: 0.5771593132738562
+Validation MSE for split 3 in trial 32 is: 1.214113132972884
+Training MSE for split 4 in trial 32 is: 0.5848881755179612
+Validation MSE for split 4 in trial 32 is: 1.2084659288580981
+Validation MSE mean for trial 32 is: 1.2082920121320224
+Training MSE for split 0 in trial 33 is: 0.24775782286917378
+Validation MSE for split 0 in trial 33 is: 1.0640663030622373
+Training MSE for split 1 in trial 33 is: 0.2568975399614342
+Validation MSE for split 1 in trial 33 is: 1.1456061422446793
+Training MSE for split 2 in trial 33 is: 0.26801042901298644
+Validation MSE for split 2 in trial 33 is: 1.1697012191849105
+Training MSE for split 3 in trial 33 is: 0.24983549094880328
+Validation MSE for split 3 in trial 33 is: 1.193252008633166
+Training MSE for split 4 in trial 33 is: 0.23817511439290734
+Validation MSE for split 4 in trial 33 is: 1.1422750491831124
+Validation MSE mean for trial 33 is: 1.142980144461621
+Training MSE for split 0 in trial 34 is: 0.5502141443591999
+Validation MSE for split 0 in trial 34 is: 1.11744339341193
+Training MSE for split 1 in trial 34 is: 0.557271067671921
+Validation MSE for split 1 in trial 34 is: 1.1833670188078604
+Training MSE for split 2 in trial 34 is: 0.5504326174948554
+Validation MSE for split 2 in trial 34 is: 1.2254580184586275
+Training MSE for split 3 in trial 34 is: 0.5608188948164853
+Validation MSE for split 3 in trial 34 is: 1.202136881346984
+Training MSE for split 4 in trial 34 is: 0.5546030561568881
+Validation MSE for split 4 in trial 34 is: 1.1668602115916582
+Validation MSE mean for trial 34 is: 1.1790531047234123
+Training MSE for split 0 in trial 35 is: 0.3935174545765137
+Validation MSE for split 0 in trial 35 is: 1.0885445258726016
+Training MSE for split 1 in trial 35 is: 0.4081280316269371
+Validation MSE for split 1 in trial 35 is: 1.1853773904860105
+Training MSE for split 2 in trial 35 is: 0.40077728238189186
+Validation MSE for split 2 in trial 35 is: 1.1950598712163354
+Training MSE for split 3 in trial 35 is: 0.39468827194417616
+Validation MSE for split 3 in trial 35 is: 1.1984883389201089
+Training MSE for split 4 in trial 35 is: 0.3828941602293041
+Validation MSE for split 4 in trial 35 is: 1.1597864987499875
+Validation MSE mean for trial 35 is: 1.1654513250490088
+Training MSE for split 0 in trial 36 is: 0.1182157152585661
+Validation MSE for split 0 in trial 36 is: 1.175747065713429
+Training MSE for split 1 in trial 36 is: 0.11859944631448033
+Validation MSE for split 1 in trial 36 is: 1.2120383673789112
+Training MSE for split 2 in trial 36 is: 0.11778961221428226
+Validation MSE for split 2 in trial 36 is: 1.2791940329261464
+Training MSE for split 3 in trial 36 is: 0.11054995535885316
+Validation MSE for split 3 in trial 36 is: 1.2749288209170315
+Training MSE for split 4 in trial 36 is: 0.11396649105345161
+Validation MSE for split 4 in trial 36 is: 1.2563138683351034
+Validation MSE mean for trial 36 is: 1.2396444310541241
+Training MSE for split 0 in trial 37 is: 0.7394056433444373
+Validation MSE for split 0 in trial 37 is: 1.1683461503196153
+Training MSE for split 1 in trial 37 is: 0.7410240206242121
+Validation MSE for split 1 in trial 37 is: 1.2712412646119127
+Training MSE for split 2 in trial 37 is: 0.7354575798407976
+Validation MSE for split 2 in trial 37 is: 1.2827502331375942
+Training MSE for split 3 in trial 37 is: 0.7543862093586647
+Validation MSE for split 3 in trial 37 is: 1.2664941624879
+Training MSE for split 4 in trial 37 is: 0.7237963254422373
+Validation MSE for split 4 in trial 37 is: 1.232804744769378
+Validation MSE mean for trial 37 is: 1.24432731106528
+Training MSE for split 0 in trial 38 is: 1.4993944276339826
+Validation MSE for split 0 in trial 38 is: 1.5388527625661677
+Training MSE for split 1 in trial 38 is: 1.4761193278321418
+Validation MSE for split 1 in trial 38 is: 1.7178247101637008
+Training MSE for split 2 in trial 38 is: 1.4758214461434636
+Validation MSE for split 2 in trial 38 is: 1.6919803442206693
+Training MSE for split 3 in trial 38 is: 1.4786740439699728
+Validation MSE for split 3 in trial 38 is: 1.6139951138493323
+Training MSE for split 4 in trial 38 is: 1.498622948567412
+Validation MSE for split 4 in trial 38 is: 1.5688889843370486
+Validation MSE mean for trial 38 is: 1.626308383027384
+Training MSE for split 0 in trial 39 is: 0.1251974171633263
+Validation MSE for split 0 in trial 39 is: 1.1997288773830446
+Training MSE for split 1 in trial 39 is: 0.12469312513906479
+Validation MSE for split 1 in trial 39 is: 1.2293737355958496
+Training MSE for split 2 in trial 39 is: 0.1252810382095849
+Validation MSE for split 2 in trial 39 is: 1.2789938904559721
+Training MSE for split 3 in trial 39 is: 0.1166263763055496
+Validation MSE for split 3 in trial 39 is: 1.2794184562100759
+Training MSE for split 4 in trial 39 is: 0.11845369060771627
+Validation MSE for split 4 in trial 39 is: 1.278188675244895
+Validation MSE mean for trial 39 is: 1.2531407269779673
+Training MSE for split 0 in trial 40 is: 0.5776459784066308
+Validation MSE for split 0 in trial 40 is: 1.1373834230866147
+Training MSE for split 1 in trial 40 is: 0.5901790573803511
+Validation MSE for split 1 in trial 40 is: 1.2286555139045696
+Training MSE for split 2 in trial 40 is: 0.5872645694576485
+Validation MSE for split 2 in trial 40 is: 1.2533590803621935
+Training MSE for split 3 in trial 40 is: 0.574867415890177
+Validation MSE for split 3 in trial 40 is: 1.2122100451376603
+Training MSE for split 4 in trial 40 is: 0.5784130544046421
+Validation MSE for split 4 in trial 40 is: 1.2003739553845698
+Validation MSE mean for trial 40 is: 1.2063964035751216
+Training MSE for split 0 in trial 41 is: 0.30318660295414257
+Validation MSE for split 0 in trial 41 is: 1.0826518013832063
+Training MSE for split 1 in trial 41 is: 0.3050908350214984
+Validation MSE for split 1 in trial 41 is: 1.146742132758582
+Training MSE for split 2 in trial 41 is: 0.3039854021140858
+Validation MSE for split 2 in trial 41 is: 1.173264043626094
+Training MSE for split 3 in trial 41 is: 0.28833158758959765
+Validation MSE for split 3 in trial 41 is: 1.1890722238068454
+Training MSE for split 4 in trial 41 is: 0.2909363266129581
+Validation MSE for split 4 in trial 41 is: 1.145222768710592
+Validation MSE mean for trial 41 is: 1.147390594057064
+Training MSE for split 0 in trial 42 is: 0.16186543488144792
+Validation MSE for split 0 in trial 42 is: 1.109715208702071
+Training MSE for split 1 in trial 42 is: 0.16504051568812161
+Validation MSE for split 1 in trial 42 is: 1.1841294657560393
+Training MSE for split 2 in trial 42 is: 0.16436093473716454
+Validation MSE for split 2 in trial 42 is: 1.2151383345326392
+Training MSE for split 3 in trial 42 is: 0.1508149952608052
+Validation MSE for split 3 in trial 42 is: 1.2214347504425318
+Training MSE for split 4 in trial 42 is: 0.1595826805670371
+Validation MSE for split 4 in trial 42 is: 1.1932647787738129
+Validation MSE mean for trial 42 is: 1.1847365076414187
+Training MSE for split 0 in trial 43 is: 0.22972004396928805
+Validation MSE for split 0 in trial 43 is: 1.0798843209102609
+Training MSE for split 1 in trial 43 is: 0.22970256483662485
+Validation MSE for split 1 in trial 43 is: 1.1412356385143647
+Training MSE for split 2 in trial 43 is: 0.22179949927426743
+Validation MSE for split 2 in trial 43 is: 1.1642845481387178
+Training MSE for split 3 in trial 43 is: 0.20943677057189614
+Validation MSE for split 3 in trial 43 is: 1.2033876202706764
+Training MSE for split 4 in trial 43 is: 0.21549671213348706
+Validation MSE for split 4 in trial 43 is: 1.1576813514012643
+Validation MSE mean for trial 43 is: 1.149294695847057
+Training MSE for split 0 in trial 44 is: 0.4772503144475784
+Validation MSE for split 0 in trial 44 is: 1.0837893111157553
+Training MSE for split 1 in trial 44 is: 0.4555556783643899
+Validation MSE for split 1 in trial 44 is: 1.1494258789821128
+Training MSE for split 2 in trial 44 is: 0.473092327271026
+Validation MSE for split 2 in trial 44 is: 1.190274424933505
+Training MSE for split 3 in trial 44 is: 0.46315499861887455
+Validation MSE for split 3 in trial 44 is: 1.182612089934904
+Training MSE for split 4 in trial 44 is: 0.4641156985737048
+Validation MSE for split 4 in trial 44 is: 1.1515561105822931
+Validation MSE mean for trial 44 is: 1.151531563109714
+Training MSE for split 0 in trial 45 is: 0.20407418669976013
+Validation MSE for split 0 in trial 45 is: 1.0850744040149218
+Training MSE for split 1 in trial 45 is: 0.1966664292641797
+Validation MSE for split 1 in trial 45 is: 1.1399073692527406
+Training MSE for split 2 in trial 45 is: 0.19243702479015806
+Validation MSE for split 2 in trial 45 is: 1.172730336718903
+Training MSE for split 3 in trial 45 is: 0.18962980624647777
+Validation MSE for split 3 in trial 45 is: 1.195121624996925
+Training MSE for split 4 in trial 45 is: 0.1876590307005465
+Validation MSE for split 4 in trial 45 is: 1.152312151774242
+Validation MSE mean for trial 45 is: 1.1490291773515466
+Training MSE for split 0 in trial 46 is: 0.11939753569248103
+Validation MSE for split 0 in trial 46 is: 1.1339856036880724
+Training MSE for split 1 in trial 46 is: 0.1202831988983324
+Validation MSE for split 1 in trial 46 is: 1.1880723617986457
+Training MSE for split 2 in trial 46 is: 0.12079334098058297
+Validation MSE for split 2 in trial 46 is: 1.2358688195609693
+Training MSE for split 3 in trial 46 is: 0.11196731867502419
+Validation MSE for split 3 in trial 46 is: 1.2642613141100993
+Training MSE for split 4 in trial 46 is: 0.11588825324362777
+Validation MSE for split 4 in trial 46 is: 1.2182457470757493
+Validation MSE mean for trial 46 is: 1.2080867692467072
+Training MSE for split 0 in trial 47 is: 0.4376557962885678
+Validation MSE for split 0 in trial 47 is: 1.0926412328085302
+Training MSE for split 1 in trial 47 is: 0.4403578133285974
+Validation MSE for split 1 in trial 47 is: 1.1424934393498358
+Training MSE for split 2 in trial 47 is: 0.44635237804901395
+Validation MSE for split 2 in trial 47 is: 1.1868758124076924
+Training MSE for split 3 in trial 47 is: 0.44029847032330266
+Validation MSE for split 3 in trial 47 is: 1.1973871033423205
+Training MSE for split 4 in trial 47 is: 0.42685181203414213
+Validation MSE for split 4 in trial 47 is: 1.1440730083056256
+Validation MSE mean for trial 47 is: 1.1526941192428009
+Training MSE for split 0 in trial 48 is: 0.8633488664593205
+Validation MSE for split 0 in trial 48 is: 1.2057897362944152
+Training MSE for split 1 in trial 48 is: 0.8542838619571329
+Validation MSE for split 1 in trial 48 is: 1.3213125251121567
+Training MSE for split 2 in trial 48 is: 0.8652437462568754
+Validation MSE for split 2 in trial 48 is: 1.3288639158230313
+Training MSE for split 3 in trial 48 is: 0.8619638221108705
+Validation MSE for split 3 in trial 48 is: 1.2991596515189254
+Training MSE for split 4 in trial 48 is: 0.8525000412049437
+Validation MSE for split 4 in trial 48 is: 1.2409371673495302
+Validation MSE mean for trial 48 is: 1.279212599219612
+Training MSE for split 0 in trial 49 is: 0.22581897417095728
+Validation MSE for split 0 in trial 49 is: 1.078326796883924
+Training MSE for split 1 in trial 49 is: 0.21887475189713684
+Validation MSE for split 1 in trial 49 is: 1.182383280955229
+Training MSE for split 2 in trial 49 is: 0.22092926769136065
+Validation MSE for split 2 in trial 49 is: 1.175793829034255
+Training MSE for split 3 in trial 49 is: 0.20838268568457408
+Validation MSE for split 3 in trial 49 is: 1.1939623738702034
+Training MSE for split 4 in trial 49 is: 0.2171940367977008
+Validation MSE for split 4 in trial 49 is: 1.1557987729047061
+Validation MSE mean for trial 49 is: 1.1572530107296637
+Training MSE for split 0 in trial 50 is: 0.10998234054104021
+Validation MSE for split 0 in trial 50 is: 1.220888223739577
+Training MSE for split 1 in trial 50 is: 0.10893201652816771
+Validation MSE for split 1 in trial 50 is: 1.2619773235614888
+Training MSE for split 2 in trial 50 is: 0.10888937487793714
+Validation MSE for split 2 in trial 50 is: 1.3008143348458958
+Training MSE for split 3 in trial 50 is: 0.10146035372941009
+Validation MSE for split 3 in trial 50 is: 1.3181884091071705
+Training MSE for split 4 in trial 50 is: 0.10668832619968695
+Validation MSE for split 4 in trial 50 is: 1.3152273892724398
+Validation MSE mean for trial 50 is: 1.2834191361053144
+Training MSE for split 0 in trial 51 is: 0.16934144389765962
+Validation MSE for split 0 in trial 51 is: 1.071060566645687
+Training MSE for split 1 in trial 51 is: 0.1672104847375066
+Validation MSE for split 1 in trial 51 is: 1.154349736221543
+Training MSE for split 2 in trial 51 is: 0.17041063168681256
+Validation MSE for split 2 in trial 51 is: 1.1749618810288922
+Training MSE for split 3 in trial 51 is: 0.16039448899090875
+Validation MSE for split 3 in trial 51 is: 1.1822587137173235
+Training MSE for split 4 in trial 51 is: 0.1649398736485694
+Validation MSE for split 4 in trial 51 is: 1.1643652779984057
+Validation MSE mean for trial 51 is: 1.1493992351223703
+Training MSE for split 0 in trial 52 is: 0.25001445010758694
+Validation MSE for split 0 in trial 52 is: 1.0616388100148977
+Training MSE for split 1 in trial 52 is: 0.24225907619978163
+Validation MSE for split 1 in trial 52 is: 1.1351161861806514
+Training MSE for split 2 in trial 52 is: 0.2559229829326746
+Validation MSE for split 2 in trial 52 is: 1.1490522530506309
+Training MSE for split 3 in trial 52 is: 0.23735656429332455
+Validation MSE for split 3 in trial 52 is: 1.1822773389291146
+Training MSE for split 4 in trial 52 is: 0.23894743524423157
+Validation MSE for split 4 in trial 52 is: 1.1459217713747574
+Validation MSE mean for trial 52 is: 1.1348012719100105
+Training MSE for split 0 in trial 53 is: 0.2621687192637401
+Validation MSE for split 0 in trial 53 is: 1.0694795343012444
+Training MSE for split 1 in trial 53 is: 0.26034663801047714
+Validation MSE for split 1 in trial 53 is: 1.1496772079084328
+Training MSE for split 2 in trial 53 is: 0.26010137594985094
+Validation MSE for split 2 in trial 53 is: 1.1651256745331762
+Training MSE for split 3 in trial 53 is: 0.25758908747977627
+Validation MSE for split 3 in trial 53 is: 1.1688970962857574
+Training MSE for split 4 in trial 53 is: 0.2586058862867302
+Validation MSE for split 4 in trial 53 is: 1.132753717812398
+Validation MSE mean for trial 53 is: 1.1371866461682019
+Training MSE for split 0 in trial 54 is: 0.24822203707756363
+Validation MSE for split 0 in trial 54 is: 1.0677852836167039
+Training MSE for split 1 in trial 54 is: 0.2592806686914175
+Validation MSE for split 1 in trial 54 is: 1.1254706248758877
+Training MSE for split 2 in trial 54 is: 0.25052632697272803
+Validation MSE for split 2 in trial 54 is: 1.142348370010165
+Training MSE for split 3 in trial 54 is: 0.25097021196853825
+Validation MSE for split 3 in trial 54 is: 1.1813493029832924
+Training MSE for split 4 in trial 54 is: 0.24173323603644115
+Validation MSE for split 4 in trial 54 is: 1.1421461426923767
+Validation MSE mean for trial 54 is: 1.1318199448356852
+Training MSE for split 0 in trial 55 is: 0.24350779581186355
+Validation MSE for split 0 in trial 55 is: 1.0660024393039647
+Training MSE for split 1 in trial 55 is: 0.2352103382076747
+Validation MSE for split 1 in trial 55 is: 1.1184561915073181
+Training MSE for split 2 in trial 55 is: 0.2278710863337243
+Validation MSE for split 2 in trial 55 is: 1.1495780899414285
+Training MSE for split 3 in trial 55 is: 0.2265155134056426
+Validation MSE for split 3 in trial 55 is: 1.1709518101438066
+Training MSE for split 4 in trial 55 is: 0.23761199225854027
+Validation MSE for split 4 in trial 55 is: 1.1478933636200497
+Validation MSE mean for trial 55 is: 1.1305763789033134
+Training MSE for split 0 in trial 56 is: 0.208696183169236
+Validation MSE for split 0 in trial 56 is: 1.0827318997991802
+Training MSE for split 1 in trial 56 is: 0.20125974667860316
+Validation MSE for split 1 in trial 56 is: 1.129019814399196
+Training MSE for split 2 in trial 56 is: 0.20042709925375324
+Validation MSE for split 2 in trial 56 is: 1.1461616244131312
+Training MSE for split 3 in trial 56 is: 0.18970335734107013
+Validation MSE for split 3 in trial 56 is: 1.173201092219665
+Training MSE for split 4 in trial 56 is: 0.19723676823838798
+Validation MSE for split 4 in trial 56 is: 1.1683523260163924
+Validation MSE mean for trial 56 is: 1.1398933513695129
+Training MSE for split 0 in trial 57 is: 0.6850467236706477
+Validation MSE for split 0 in trial 57 is: 1.1467552244900072
+Training MSE for split 1 in trial 57 is: 0.6852156306494237
+Validation MSE for split 1 in trial 57 is: 1.2396499793364621
+Training MSE for split 2 in trial 57 is: 0.6783517369010703
+Validation MSE for split 2 in trial 57 is: 1.2629187892181135
+Training MSE for split 3 in trial 57 is: 0.6813372400287362
+Validation MSE for split 3 in trial 57 is: 1.2349499177634875
+Training MSE for split 4 in trial 57 is: 0.6840581137549449
+Validation MSE for split 4 in trial 57 is: 1.1726529407463455
+Validation MSE mean for trial 57 is: 1.211385370310883
+Training MSE for split 0 in trial 58 is: 0.574249408643107
+Validation MSE for split 0 in trial 58 is: 1.1174610658032165
+Training MSE for split 1 in trial 58 is: 0.5840566917515592
+Validation MSE for split 1 in trial 58 is: 1.2006368309598994
+Training MSE for split 2 in trial 58 is: 0.580746291110839
+Validation MSE for split 2 in trial 58 is: 1.2261865429426817
+Training MSE for split 3 in trial 58 is: 0.5800421792105095
+Validation MSE for split 3 in trial 58 is: 1.210564932490942
+Training MSE for split 4 in trial 58 is: 0.5700070867155878
+Validation MSE for split 4 in trial 58 is: 1.175407268786929
+Validation MSE mean for trial 58 is: 1.1860513281967335
+Training MSE for split 0 in trial 59 is: 0.18501444618000534
+Validation MSE for split 0 in trial 59 is: 1.0719244392933163
+Training MSE for split 1 in trial 59 is: 0.17682029689578524
+Validation MSE for split 1 in trial 59 is: 1.1421633147251635
+Training MSE for split 2 in trial 59 is: 0.17468405510915958
+Validation MSE for split 2 in trial 59 is: 1.1845979851814894
+Training MSE for split 3 in trial 59 is: 0.17640806306512008
+Validation MSE for split 3 in trial 59 is: 1.187798653062919
+Training MSE for split 4 in trial 59 is: 0.17488476433238992
+Validation MSE for split 4 in trial 59 is: 1.1727218666973367
+Validation MSE mean for trial 59 is: 1.1518412517920449
+Training MSE for split 0 in trial 60 is: 0.23950913926907008
+Validation MSE for split 0 in trial 60 is: 1.085244368434549
+Training MSE for split 1 in trial 60 is: 0.23553247340233108
+Validation MSE for split 1 in trial 60 is: 1.142241348119107
+Training MSE for split 2 in trial 60 is: 0.22631263993550726
+Validation MSE for split 2 in trial 60 is: 1.1730813357365584
+Training MSE for split 3 in trial 60 is: 0.2244534802975119
+Validation MSE for split 3 in trial 60 is: 1.2041381583479878
+Training MSE for split 4 in trial 60 is: 0.2207090803914169
+Validation MSE for split 4 in trial 60 is: 1.16703515131776
+Validation MSE mean for trial 60 is: 1.1543480723911923
+Training MSE for split 0 in trial 61 is: 0.22548991211799332
+Validation MSE for split 0 in trial 61 is: 1.0789817482178616
+Training MSE for split 1 in trial 61 is: 0.21918612197479506
+Validation MSE for split 1 in trial 61 is: 1.1295338169867746
+Training MSE for split 2 in trial 61 is: 0.21830913805769045
+Validation MSE for split 2 in trial 61 is: 1.1535696050546742
+Training MSE for split 3 in trial 61 is: 0.2103784051329476
+Validation MSE for split 3 in trial 61 is: 1.1811510585064853
+Training MSE for split 4 in trial 61 is: 0.22087365737249146
+Validation MSE for split 4 in trial 61 is: 1.1710764331953372
+Validation MSE mean for trial 61 is: 1.1428625323922266
+Training MSE for split 0 in trial 62 is: 0.22042480377886278
+Validation MSE for split 0 in trial 62 is: 1.0670428827660081
+Training MSE for split 1 in trial 62 is: 0.217279919995749
+Validation MSE for split 1 in trial 62 is: 1.125144504741229
+Training MSE for split 2 in trial 62 is: 0.213133948008533
+Validation MSE for split 2 in trial 62 is: 1.1553921934544509
+Training MSE for split 3 in trial 62 is: 0.2126089427699565
+Validation MSE for split 3 in trial 62 is: 1.1855782358033917
+Training MSE for split 4 in trial 62 is: 0.21777699261017378
+Validation MSE for split 4 in trial 62 is: 1.160137625110854
+Validation MSE mean for trial 62 is: 1.1386590883751868
+Training MSE for split 0 in trial 63 is: 0.2388234262837976
+Validation MSE for split 0 in trial 63 is: 1.0680048951279346
+Training MSE for split 1 in trial 63 is: 0.21900981071287554
+Validation MSE for split 1 in trial 63 is: 1.1355528864945383
+Training MSE for split 2 in trial 63 is: 0.22026166729759075
+Validation MSE for split 2 in trial 63 is: 1.1427220384703927
+Training MSE for split 3 in trial 63 is: 0.21992875069832077
+Validation MSE for split 3 in trial 63 is: 1.1821781640509732
+Training MSE for split 4 in trial 63 is: 0.2148015894118563
+Validation MSE for split 4 in trial 63 is: 1.162889553441777
+Validation MSE mean for trial 63 is: 1.1382695075171232
+Training MSE for split 0 in trial 64 is: 0.44903933031911375
+Validation MSE for split 0 in trial 64 is: 1.103955532779451
+Training MSE for split 1 in trial 64 is: 0.45364821734377475
+Validation MSE for split 1 in trial 64 is: 1.1496352009201525
+Training MSE for split 2 in trial 64 is: 0.45405035054347614
+Validation MSE for split 2 in trial 64 is: 1.185159966656263
+Training MSE for split 3 in trial 64 is: 0.4472571721551586
+Validation MSE for split 3 in trial 64 is: 1.2008533164823205
+Training MSE for split 4 in trial 64 is: 0.4415211291910211
+Validation MSE for split 4 in trial 64 is: 1.147007468956584
+Validation MSE mean for trial 64 is: 1.1573222971589543
+Training MSE for split 0 in trial 65 is: 0.2243543507113475
+Validation MSE for split 0 in trial 65 is: 1.1020007683302224
+Training MSE for split 1 in trial 65 is: 0.2094785137396891
+Validation MSE for split 1 in trial 65 is: 1.1295817094459057
+Training MSE for split 2 in trial 65 is: 0.21181632326498567
+Validation MSE for split 2 in trial 65 is: 1.1796238460594712
+Training MSE for split 3 in trial 65 is: 0.2085388475174545
+Validation MSE for split 3 in trial 65 is: 1.1950017843826595
+Training MSE for split 4 in trial 65 is: 0.20542890584924398
+Validation MSE for split 4 in trial 65 is: 1.2105368053298127
+Validation MSE mean for trial 65 is: 1.1633489827096144
+Training MSE for split 0 in trial 66 is: 0.11787155390938042
+Validation MSE for split 0 in trial 66 is: 1.1244893682641104
+Training MSE for split 1 in trial 66 is: 0.11634117387179828
+Validation MSE for split 1 in trial 66 is: 1.2078658759300418
+Training MSE for split 2 in trial 66 is: 0.11758340279577158
+Validation MSE for split 2 in trial 66 is: 1.215500571277554
+Training MSE for split 3 in trial 66 is: 0.10990426169066038
+Validation MSE for split 3 in trial 66 is: 1.264215249989129
+Training MSE for split 4 in trial 66 is: 0.11460090513948619
+Validation MSE for split 4 in trial 66 is: 1.2268186163301746
+Validation MSE mean for trial 66 is: 1.2077779363582022
+Training MSE for split 0 in trial 67 is: 0.10929774062548908
+Validation MSE for split 0 in trial 67 is: 1.3658291574825159
+Training MSE for split 1 in trial 67 is: 0.1079496218728069
+Validation MSE for split 1 in trial 67 is: 1.3744343316195986
+Training MSE for split 2 in trial 67 is: 0.10815367876918257
+Validation MSE for split 2 in trial 67 is: 1.4779076409991525
+Training MSE for split 3 in trial 67 is: 0.10062338373851891
+Validation MSE for split 3 in trial 67 is: 1.4671851867340497
+Training MSE for split 4 in trial 67 is: 0.10575799627775025
+Validation MSE for split 4 in trial 67 is: 1.4221394575374413
+Validation MSE mean for trial 67 is: 1.4214991548745515
+Training MSE for split 0 in trial 68 is: 1.0103136705633526
+Validation MSE for split 0 in trial 68 is: 1.2544201280823715
+Training MSE for split 1 in trial 68 is: 1.0009986251937302
+Validation MSE for split 1 in trial 68 is: 1.3843861488638791
+Training MSE for split 2 in trial 68 is: 0.9933326953652438
+Validation MSE for split 2 in trial 68 is: 1.3975433719345791
+Training MSE for split 3 in trial 68 is: 1.0078711686742838
+Validation MSE for split 3 in trial 68 is: 1.353661981739576
+Training MSE for split 4 in trial 68 is: 1.0120319434741563
+Validation MSE for split 4 in trial 68 is: 1.2811590486903133
+Validation MSE mean for trial 68 is: 1.3342341358621437
+Training MSE for split 0 in trial 69 is: 0.17569772210938953
+Validation MSE for split 0 in trial 69 is: 1.107219950051973
+Training MSE for split 1 in trial 69 is: 0.17434060699609938
+Validation MSE for split 1 in trial 69 is: 1.1493650807658597
+Training MSE for split 2 in trial 69 is: 0.17582396698918853
+Validation MSE for split 2 in trial 69 is: 1.1762864314759016
+Training MSE for split 3 in trial 69 is: 0.16696792269114485
+Validation MSE for split 3 in trial 69 is: 1.2024351422850779
+Training MSE for split 4 in trial 69 is: 0.17370537963646185
+Validation MSE for split 4 in trial 69 is: 1.1732722105043445
+Validation MSE mean for trial 69 is: 1.1617157630166313
+Training MSE for split 0 in trial 70 is: 0.27385797826563574
+Validation MSE for split 0 in trial 70 is: 1.0699559890911556
+Training MSE for split 1 in trial 70 is: 0.2716873919312617
+Validation MSE for split 1 in trial 70 is: 1.1322943261496918
+Training MSE for split 2 in trial 70 is: 0.27545543491682284
+Validation MSE for split 2 in trial 70 is: 1.168133602907478
+Training MSE for split 3 in trial 70 is: 0.26256992288465925
+Validation MSE for split 3 in trial 70 is: 1.1670020088255242
+Training MSE for split 4 in trial 70 is: 0.26159042409923705
+Validation MSE for split 4 in trial 70 is: 1.141139166096166
+Validation MSE mean for trial 70 is: 1.1357050186140032
+Training MSE for split 0 in trial 71 is: 0.26802009119021086
+Validation MSE for split 0 in trial 71 is: 1.0709482188481834
+Training MSE for split 1 in trial 71 is: 0.2730575465980136
+Validation MSE for split 1 in trial 71 is: 1.1368032269234256
+Training MSE for split 2 in trial 71 is: 0.2675375633434449
+Validation MSE for split 2 in trial 71 is: 1.1605564147541263
+Training MSE for split 3 in trial 71 is: 0.27360884285060416
+Validation MSE for split 3 in trial 71 is: 1.1719158099713887
+Training MSE for split 4 in trial 71 is: 0.2648331837551914
+Validation MSE for split 4 in trial 71 is: 1.1635438938527842
+Validation MSE mean for trial 71 is: 1.1407535128699817
+Training MSE for split 0 in trial 72 is: 0.12154347285465615
+Validation MSE for split 0 in trial 72 is: 1.1104553734773728
+Training MSE for split 1 in trial 72 is: 0.12156101170369057
+Validation MSE for split 1 in trial 72 is: 1.188109539816411
+Training MSE for split 2 in trial 72 is: 0.12238219021441385
+Validation MSE for split 2 in trial 72 is: 1.2169041012075088
+Training MSE for split 3 in trial 72 is: 0.1120463597691472
+Validation MSE for split 3 in trial 72 is: 1.2540161627643605
+Training MSE for split 4 in trial 72 is: 0.11832540495030648
+Validation MSE for split 4 in trial 72 is: 1.2198082689127265
+Validation MSE mean for trial 72 is: 1.1978586892356757
+Training MSE for split 0 in trial 73 is: 0.34012260634732044
+Validation MSE for split 0 in trial 73 is: 1.0761858267941022
+Training MSE for split 1 in trial 73 is: 0.3366247339099198
+Validation MSE for split 1 in trial 73 is: 1.1311570118792498
+Training MSE for split 2 in trial 73 is: 0.3453002395685688
+Validation MSE for split 2 in trial 73 is: 1.1648353034107528
+Training MSE for split 3 in trial 73 is: 0.34024942447366574
+Validation MSE for split 3 in trial 73 is: 1.2018431612318274
+Training MSE for split 4 in trial 73 is: 0.32597591610682647
+Validation MSE for split 4 in trial 73 is: 1.1470231871290884
+Validation MSE mean for trial 73 is: 1.144208898089004
+Training MSE for split 0 in trial 74 is: 0.2577950691718139
+Validation MSE for split 0 in trial 74 is: 1.0768383696814432
+Training MSE for split 1 in trial 74 is: 0.2586539297838504
+Validation MSE for split 1 in trial 74 is: 1.1392785167453263
+Training MSE for split 2 in trial 74 is: 0.25397825849148226
+Validation MSE for split 2 in trial 74 is: 1.1525331527146279
+Training MSE for split 3 in trial 74 is: 0.25915270898783843
+Validation MSE for split 3 in trial 74 is: 1.1887451119226835
+Training MSE for split 4 in trial 74 is: 0.2535759897822997
+Validation MSE for split 4 in trial 74 is: 1.1571802055454983
+Validation MSE mean for trial 74 is: 1.1429150713219158
+Training MSE for split 0 in trial 75 is: 0.521734985287429
+Validation MSE for split 0 in trial 75 is: 1.0923235162376193
+Training MSE for split 1 in trial 75 is: 0.5253955167858606
+Validation MSE for split 1 in trial 75 is: 1.1895540047747541
+Training MSE for split 2 in trial 75 is: 0.5303344439306921
+Validation MSE for split 2 in trial 75 is: 1.209210291933739
+Training MSE for split 3 in trial 75 is: 0.5220983988473062
+Validation MSE for split 3 in trial 75 is: 1.1949569240233016
+Training MSE for split 4 in trial 75 is: 0.5131422746882327
+Validation MSE for split 4 in trial 75 is: 1.1573559970387282
+Validation MSE mean for trial 75 is: 1.1686801468016284
+Training MSE for split 0 in trial 76 is: 0.2769423417985125
+Validation MSE for split 0 in trial 76 is: 1.07950577639678
+Training MSE for split 1 in trial 76 is: 0.2757665884000981
+Validation MSE for split 1 in trial 76 is: 1.1394470554603187
+Training MSE for split 2 in trial 76 is: 0.28053673372952087
+Validation MSE for split 2 in trial 76 is: 1.1449727714854896
+Training MSE for split 3 in trial 76 is: 0.27123209472406573
+Validation MSE for split 3 in trial 76 is: 1.1675778574614284
+Training MSE for split 4 in trial 76 is: 0.2820243560964771
+Validation MSE for split 4 in trial 76 is: 1.1533179251179888
+Validation MSE mean for trial 76 is: 1.136964277184401
+Training MSE for split 0 in trial 77 is: 0.14100021136264154
+Validation MSE for split 0 in trial 77 is: 1.0852706065694067
+Training MSE for split 1 in trial 77 is: 0.14007988884128728
+Validation MSE for split 1 in trial 77 is: 1.1748079289431912
+Training MSE for split 2 in trial 77 is: 0.13860034774197857
+Validation MSE for split 2 in trial 77 is: 1.1992597234225557
+Training MSE for split 3 in trial 77 is: 0.13339719882023052
+Validation MSE for split 3 in trial 77 is: 1.2275032842719185
+Training MSE for split 4 in trial 77 is: 0.13408434346967085
+Validation MSE for split 4 in trial 77 is: 1.1892044918934925
+Validation MSE mean for trial 77 is: 1.1752092070201128
+Training MSE for split 0 in trial 78 is: 0.3723062457642773
+Validation MSE for split 0 in trial 78 is: 1.0771410996781934
+Training MSE for split 1 in trial 78 is: 0.3704165927269764
+Validation MSE for split 1 in trial 78 is: 1.1369759986794885
+Training MSE for split 2 in trial 78 is: 0.3800152392313095
+Validation MSE for split 2 in trial 78 is: 1.1567150408677886
+Training MSE for split 3 in trial 78 is: 0.38742775954867414
+Validation MSE for split 3 in trial 78 is: 1.1961859327815065
+Training MSE for split 4 in trial 78 is: 0.36501076427026224
+Validation MSE for split 4 in trial 78 is: 1.1509058855835532
+Validation MSE mean for trial 78 is: 1.143584791518106
+Training MSE for split 0 in trial 79 is: 0.11525312704244645
+Validation MSE for split 0 in trial 79 is: 1.1458121601039772
+Training MSE for split 1 in trial 79 is: 0.11405019623619543
+Validation MSE for split 1 in trial 79 is: 1.217290403450565
+Training MSE for split 2 in trial 79 is: 0.11393675874782931
+Validation MSE for split 2 in trial 79 is: 1.2499968507318377
+Training MSE for split 3 in trial 79 is: 0.10486711927157223
+Validation MSE for split 3 in trial 79 is: 1.270271502794819
+Training MSE for split 4 in trial 79 is: 0.11039611134231998
+Validation MSE for split 4 in trial 79 is: 1.2445308089372713
+Validation MSE mean for trial 79 is: 1.225580345203694
+Training MSE for split 0 in trial 80 is: 0.7874500056065322
+Validation MSE for split 0 in trial 80 is: 1.1868603068147114
+Training MSE for split 1 in trial 80 is: 0.7817576590656564
+Validation MSE for split 1 in trial 80 is: 1.2700910162163739
+Training MSE for split 2 in trial 80 is: 0.786172244344995
+Validation MSE for split 2 in trial 80 is: 1.298346896693175
+Training MSE for split 3 in trial 80 is: 0.7830051276251369
+Validation MSE for split 3 in trial 80 is: 1.2636620328495767
+Training MSE for split 4 in trial 80 is: 0.7783716934276371
+Validation MSE for split 4 in trial 80 is: 1.2127877764788875
+Validation MSE mean for trial 80 is: 1.2463496058105448
+Training MSE for split 0 in trial 81 is: 0.21917268550470645
+Validation MSE for split 0 in trial 81 is: 1.072867666976354
+Training MSE for split 1 in trial 81 is: 0.21191391176089117
+Validation MSE for split 1 in trial 81 is: 1.0989524690126027
+Training MSE for split 2 in trial 81 is: 0.21188594023671822
+Validation MSE for split 2 in trial 81 is: 1.1606916653083201
+Training MSE for split 3 in trial 81 is: 0.20195887781441985
+Validation MSE for split 3 in trial 81 is: 1.193324763838033
+Training MSE for split 4 in trial 81 is: 0.20948818071548683
+Validation MSE for split 4 in trial 81 is: 1.15818947998484
+Validation MSE mean for trial 81 is: 1.1368052090240301
+Training MSE for split 0 in trial 82 is: 0.3311655683107026
+Validation MSE for split 0 in trial 82 is: 1.0713614476581967
+Training MSE for split 1 in trial 82 is: 0.3425168619058559
+Validation MSE for split 1 in trial 82 is: 1.127988091395339
+Training MSE for split 2 in trial 82 is: 0.3305310793054103
+Validation MSE for split 2 in trial 82 is: 1.1703697250579095
+Training MSE for split 3 in trial 82 is: 0.32593220139784684
+Validation MSE for split 3 in trial 82 is: 1.179580645369035
+Training MSE for split 4 in trial 82 is: 0.324169555730198
+Validation MSE for split 4 in trial 82 is: 1.1249091562875568
+Validation MSE mean for trial 82 is: 1.1348418131536075
+Training MSE for split 0 in trial 83 is: 0.39280924224959507
+Validation MSE for split 0 in trial 83 is: 1.07951912088414
+Training MSE for split 1 in trial 83 is: 0.3863675680922854
+Validation MSE for split 1 in trial 83 is: 1.13984985806247
+Training MSE for split 2 in trial 83 is: 0.40200320523521743
+Validation MSE for split 2 in trial 83 is: 1.1837260876302165
+Training MSE for split 3 in trial 83 is: 0.3932808773902052
+Validation MSE for split 3 in trial 83 is: 1.1888801738534354
+Training MSE for split 4 in trial 83 is: 0.38478055390146776
+Validation MSE for split 4 in trial 83 is: 1.1560778633767772
+Validation MSE mean for trial 83 is: 1.1496106207614079
+Training MSE for split 0 in trial 84 is: 0.5501962257360377
+Validation MSE for split 0 in trial 84 is: 1.1134557242663747
+Training MSE for split 1 in trial 84 is: 0.5533955452109279
+Validation MSE for split 1 in trial 84 is: 1.181723365733397
+Training MSE for split 2 in trial 84 is: 0.571785601608914
+Validation MSE for split 2 in trial 84 is: 1.2282623421255119
+Training MSE for split 3 in trial 84 is: 0.5600411194275247
+Validation MSE for split 3 in trial 84 is: 1.2148730972249766
+Training MSE for split 4 in trial 84 is: 0.5386014616257285
+Validation MSE for split 4 in trial 84 is: 1.1798063405429196
+Validation MSE mean for trial 84 is: 1.183624173978636
+Training MSE for split 0 in trial 85 is: 0.15812603736708325
+Validation MSE for split 0 in trial 85 is: 1.0933122760027723
+Training MSE for split 1 in trial 85 is: 0.16012167320926543
+Validation MSE for split 1 in trial 85 is: 1.170516105872548
+Training MSE for split 2 in trial 85 is: 0.15994562711595278
+Validation MSE for split 2 in trial 85 is: 1.170340526211073
+Training MSE for split 3 in trial 85 is: 0.15426451401504873
+Validation MSE for split 3 in trial 85 is: 1.206861456208586
+Training MSE for split 4 in trial 85 is: 0.15513309786193433
+Validation MSE for split 4 in trial 85 is: 1.1703276549277288
+Validation MSE mean for trial 85 is: 1.1622716038445415
+Training MSE for split 0 in trial 86 is: 0.373220891490071
+Validation MSE for split 0 in trial 86 is: 1.0768430626959122
+Training MSE for split 1 in trial 86 is: 0.36192592134678014
+Validation MSE for split 1 in trial 86 is: 1.1314518328166934
+Training MSE for split 2 in trial 86 is: 0.3732373991714678
+Validation MSE for split 2 in trial 86 is: 1.1601290567225828
+Training MSE for split 3 in trial 86 is: 0.37239791147205753
+Validation MSE for split 3 in trial 86 is: 1.1792979800307588
+Training MSE for split 4 in trial 86 is: 0.36363790567151727
+Validation MSE for split 4 in trial 86 is: 1.1460638672815775
+Validation MSE mean for trial 86 is: 1.138757159909505
+Training MSE for split 0 in trial 87 is: 0.2933071703960877
+Validation MSE for split 0 in trial 87 is: 1.0653379017173559
+Training MSE for split 1 in trial 87 is: 0.28926277903512965
+Validation MSE for split 1 in trial 87 is: 1.1287984542054055
+Training MSE for split 2 in trial 87 is: 0.28350194283512703
+Validation MSE for split 2 in trial 87 is: 1.1463747828727442
+Training MSE for split 3 in trial 87 is: 0.2856289400329516
+Validation MSE for split 3 in trial 87 is: 1.178472818557497
+Training MSE for split 4 in trial 87 is: 0.28601905820549184
+Validation MSE for split 4 in trial 87 is: 1.1363676042363469
+Validation MSE mean for trial 87 is: 1.13107031231787
+Training MSE for split 0 in trial 88 is: 1.7074895265244752
+Validation MSE for split 0 in trial 88 is: 1.7030796224509
+Training MSE for split 1 in trial 88 is: 1.6866661804120333
+Validation MSE for split 1 in trial 88 is: 1.8873938662935905
+Training MSE for split 2 in trial 88 is: 1.6821823423882591
+Validation MSE for split 2 in trial 88 is: 1.88178107954906
+Training MSE for split 3 in trial 88 is: 1.6958804809187542
+Validation MSE for split 3 in trial 88 is: 1.7703810826392958
+Training MSE for split 4 in trial 88 is: 1.7147867790933742
+Validation MSE for split 4 in trial 88 is: 1.7802279264721608
+Validation MSE mean for trial 88 is: 1.8045727154810014
+Training MSE for split 0 in trial 89 is: 0.6291237244381929
+Validation MSE for split 0 in trial 89 is: 1.119418771381118
+Training MSE for split 1 in trial 89 is: 0.645100863110226
+Validation MSE for split 1 in trial 89 is: 1.2337586901676978
+Training MSE for split 2 in trial 89 is: 0.6573284789942335
+Validation MSE for split 2 in trial 89 is: 1.2460875789433579
+Training MSE for split 3 in trial 89 is: 0.6478581815132521
+Validation MSE for split 3 in trial 89 is: 1.2314646223663208
+Training MSE for split 4 in trial 89 is: 0.6267372824832025
+Validation MSE for split 4 in trial 89 is: 1.1862453332996663
+Validation MSE mean for trial 89 is: 1.2033949992316322
+Training MSE for split 0 in trial 90 is: 0.20850823880975708
+Validation MSE for split 0 in trial 90 is: 1.0703142493032842
+Training MSE for split 1 in trial 90 is: 0.21597613543721486
+Validation MSE for split 1 in trial 90 is: 1.1439948979793244
+Training MSE for split 2 in trial 90 is: 0.20744182285343674
+Validation MSE for split 2 in trial 90 is: 1.167043803561215
+Training MSE for split 3 in trial 90 is: 0.20453538942346466
+Validation MSE for split 3 in trial 90 is: 1.1943805517025023
+Training MSE for split 4 in trial 90 is: 0.2158399548095137
+Validation MSE for split 4 in trial 90 is: 1.1554752003021402
+Validation MSE mean for trial 90 is: 1.1462417405696932
+Training MSE for split 0 in trial 91 is: 0.22337373107250322
+Validation MSE for split 0 in trial 91 is: 1.0765143303883367
+Training MSE for split 1 in trial 91 is: 0.22395219530978838
+Validation MSE for split 1 in trial 91 is: 1.1400496725967857
+Training MSE for split 2 in trial 91 is: 0.21955140448348687
+Validation MSE for split 2 in trial 91 is: 1.1606157950240823
+Training MSE for split 3 in trial 91 is: 0.21567251946278596
+Validation MSE for split 3 in trial 91 is: 1.183281807253268
+Training MSE for split 4 in trial 91 is: 0.21846484648321765
+Validation MSE for split 4 in trial 91 is: 1.13897801730677
+Validation MSE mean for trial 91 is: 1.1398879245138485
+Training MSE for split 0 in trial 92 is: 0.23304117335352817
+Validation MSE for split 0 in trial 92 is: 1.0779375808263583
+Training MSE for split 1 in trial 92 is: 0.22516857843527555
+Validation MSE for split 1 in trial 92 is: 1.1278199085896412
+Training MSE for split 2 in trial 92 is: 0.2272048210655669
+Validation MSE for split 2 in trial 92 is: 1.1547298045136376
+Training MSE for split 3 in trial 92 is: 0.22447147146223573
+Validation MSE for split 3 in trial 92 is: 1.1598379996134214
+Training MSE for split 4 in trial 92 is: 0.2255176008937849
+Validation MSE for split 4 in trial 92 is: 1.1384275482012363
+Validation MSE mean for trial 92 is: 1.131750568348859
+Training MSE for split 0 in trial 93 is: 0.12668932474467057
+Validation MSE for split 0 in trial 93 is: 1.0881979608411936
+Training MSE for split 1 in trial 93 is: 0.12517409191915535
+Validation MSE for split 1 in trial 93 is: 1.191792599353338
+Training MSE for split 2 in trial 93 is: 0.12492860544144403
+Validation MSE for split 2 in trial 93 is: 1.220243684973932
+Training MSE for split 3 in trial 93 is: 0.11669415088790636
+Validation MSE for split 3 in trial 93 is: 1.2396734263448046
+Training MSE for split 4 in trial 93 is: 0.12259698227912284
+Validation MSE for split 4 in trial 93 is: 1.195162218199879
+Validation MSE mean for trial 93 is: 1.1870139779426292
+Training MSE for split 0 in trial 94 is: 0.42415622459245883
+Validation MSE for split 0 in trial 94 is: 1.0750145050645274
+Training MSE for split 1 in trial 94 is: 0.4295409264155665
+Validation MSE for split 1 in trial 94 is: 1.1521386682418824
+Training MSE for split 2 in trial 94 is: 0.41908774891811384
+Validation MSE for split 2 in trial 94 is: 1.190154775663597
+Training MSE for split 3 in trial 94 is: 0.43981784934766077
+Validation MSE for split 3 in trial 94 is: 1.1778103197856893
+Training MSE for split 4 in trial 94 is: 0.4167094012308061
+Validation MSE for split 4 in trial 94 is: 1.154478147048049
+Validation MSE mean for trial 94 is: 1.1499192831607492
+Training MSE for split 0 in trial 95 is: 0.27535089378750005
+Validation MSE for split 0 in trial 95 is: 1.063038137854597
+Training MSE for split 1 in trial 95 is: 0.27181149588538506
+Validation MSE for split 1 in trial 95 is: 1.1410355020429153
+Training MSE for split 2 in trial 95 is: 0.26165235221893823
+Validation MSE for split 2 in trial 95 is: 1.1715606816825546
+Training MSE for split 3 in trial 95 is: 0.27193724881432546
+Validation MSE for split 3 in trial 95 is: 1.1849740373734599
+Training MSE for split 4 in trial 95 is: 0.2741497026467291
+Validation MSE for split 4 in trial 95 is: 1.1458712452661741
+Validation MSE mean for trial 95 is: 1.1412959208439402
+Training MSE for split 0 in trial 96 is: 0.150089309113861
+Validation MSE for split 0 in trial 96 is: 1.099182139125647
+Training MSE for split 1 in trial 96 is: 0.15390114120052667
+Validation MSE for split 1 in trial 96 is: 1.1557208497952416
+Training MSE for split 2 in trial 96 is: 0.1526351962726895
+Validation MSE for split 2 in trial 96 is: 1.2009763144878087
+Training MSE for split 3 in trial 96 is: 0.14407089852060057
+Validation MSE for split 3 in trial 96 is: 1.2262837679196632
+Training MSE for split 4 in trial 96 is: 0.14731510228904868
+Validation MSE for split 4 in trial 96 is: 1.1812232613481792
+Validation MSE mean for trial 96 is: 1.1726772665353082
+Training MSE for split 0 in trial 97 is: 0.5855256946327899
+Validation MSE for split 0 in trial 97 is: 1.1141642750166654
+Training MSE for split 1 in trial 97 is: 0.5656019727390958
+Validation MSE for split 1 in trial 97 is: 1.1805024518847134
+Training MSE for split 2 in trial 97 is: 0.6051447759765578
+Validation MSE for split 2 in trial 97 is: 1.2485390338638558
+Training MSE for split 3 in trial 97 is: 0.5807745303624757
+Validation MSE for split 3 in trial 97 is: 1.213428790242891
+Training MSE for split 4 in trial 97 is: 0.5688552252666202
+Validation MSE for split 4 in trial 97 is: 1.1877246402559138
+Validation MSE mean for trial 97 is: 1.1888718382528078
+Training MSE for split 0 in trial 98 is: 0.26227004185024544
+Validation MSE for split 0 in trial 98 is: 1.0686749888272695
+Training MSE for split 1 in trial 98 is: 0.26460501021072447
+Validation MSE for split 1 in trial 98 is: 1.1194783580972911
+Training MSE for split 2 in trial 98 is: 0.26078663922621903
+Validation MSE for split 2 in trial 98 is: 1.1687260712578367
+Training MSE for split 3 in trial 98 is: 0.2649786329324364
+Validation MSE for split 3 in trial 98 is: 1.1734940334685677
+Training MSE for split 4 in trial 98 is: 0.2514149641939446
+Validation MSE for split 4 in trial 98 is: 1.1520998891525234
+Validation MSE mean for trial 98 is: 1.1364946681606978
+Training MSE for split 0 in trial 99 is: 0.10930316712399932
+Validation MSE for split 0 in trial 99 is: 1.3331678608929598
+Training MSE for split 1 in trial 99 is: 0.10795644356249923
+Validation MSE for split 1 in trial 99 is: 1.3616496780869605
+Training MSE for split 2 in trial 99 is: 0.10815883363259085
+Validation MSE for split 2 in trial 99 is: 1.4443715771096077
+Training MSE for split 3 in trial 99 is: 0.10062424648843127
+Validation MSE for split 3 in trial 99 is: 1.4462932356245708
+Training MSE for split 4 in trial 99 is: 0.10577089755651285
+Validation MSE for split 4 in trial 99 is: 1.3941572598260816
+Validation MSE mean for trial 99 is: 1.395927922308036
+Study statistics: 
+  Number of finished trials:  100
+  Number of pruned trials:  0
+  Number of complete trials:  100
+Best trial:
+  Value:  1.1305763789033134
+  Params: 
+    n_estimators: 466
+    eta: 0.10057398674623266
+    max_depth: 8

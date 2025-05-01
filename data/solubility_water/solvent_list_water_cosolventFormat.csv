@@ -1,0 +1,2 @@
+solvent_name,solvent_id,smiles_canon,molecular_weight,TPSA,polarity_class,size_class,hybrid_class
+WATER,solvent_4,O,18.015,31.5,polar,small,"polar,small"

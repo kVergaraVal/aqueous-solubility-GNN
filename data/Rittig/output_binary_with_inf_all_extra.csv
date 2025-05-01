@@ -1,0 +1,1156 @@
+,Unnamed: 0,temperature (K),x(1),x(2),ln_gamma_1,ln_gamma_2,cas_number_1,cas_number_2,names_1,names_2,SMILES_x,NAME_x,boilingPoint[K]_x,cas_number_x,SMILES_y,NAME_y,boilingPoint[K]_y,cas_number_y
+0,0,298.15,0.0,1.0,1.7115696,0.0,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+1,1,298.15,0.1,0.9,1.35545066,0.01830345,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+2,2,298.15,0.2,0.8,1.07109365,0.06813906,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+3,3,298.15,0.3,0.7,0.8400703,0.14490335,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+4,4,298.15,0.4,0.6,0.64898707,0.24768617,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+5,5,298.15,0.5,0.5,0.48845468,0.37910591,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+6,6,298.15,0.6,0.4,0.35193501,0.54639825,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+7,7,298.15,0.7,0.3,0.23498303,0.76475331,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+8,8,298.15,0.8,0.2,0.13493771,1.06826127,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+9,9,298.15,0.9,0.1,0.05163342,1.5551951,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+10,10,298.15,1.0,0.0,0.0,2.9285552,71-43-2,67-56-1,benzene,methanol,c1ccccc1,benzene,353.15,71-43-2,CO,methanol,337.85,67-56-1
+11,11,298.15,0.0,1.0,-0.08966545,0.0,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+12,12,298.15,0.1,0.9,-0.07699855,-0.00061616,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+13,13,298.15,0.2,0.8,-0.06462876,-0.00274865,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+14,14,298.15,0.3,0.7,-0.05267839,-0.00668389,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+15,15,298.15,0.4,0.6,-0.04129558,-0.01276801,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+16,16,298.15,0.5,0.5,-0.03067637,-0.02141825,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+17,17,298.15,0.6,0.4,-0.02106082,-0.03315068,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+18,18,298.15,0.7,0.3,-0.01274782,-0.04859762,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+19,19,298.15,0.8,0.2,-0.00610919,-0.06854173,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+20,20,298.15,0.9,0.1,-0.00164701,-0.09394922,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+21,21,298.15,1.0,0.0,0.0,-0.12605699,75-29-6,97-63-2,2-chloropropane,ethylmethacrylate,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+22,22,298.15,0.0,1.0,-0.45256673,0.0,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+23,23,298.15,0.1,0.9,-0.41242487,-0.00303881,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+24,24,298.15,0.2,0.8,-0.36433918,-0.01181314,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+25,25,298.15,0.3,0.7,-0.33244645,-0.02245414,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+26,26,298.15,0.4,0.6,-0.30376254,-0.03763857,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+27,27,298.15,0.5,0.5,-0.26011892,-0.07307084,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+28,28,298.15,0.6,0.4,-0.18944674,-0.16024552,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+29,29,298.15,0.7,0.3,-0.11091436,-0.30817298,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+30,30,298.15,0.8,0.2,-0.04853852,-0.49833156,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+31,31,298.15,0.9,0.1,-0.01155263,-0.71110789,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+32,32,298.15,1.0,0.0,0.0,-0.92864006,67-66-3,142-96-1,chcl3,di-n-butylether,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+33,33,298.15,0.0,1.0,-0.00339421,0.0,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+34,34,298.15,0.1,0.9,-0.00272441,-3.282e-05,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+35,35,298.15,0.2,0.8,-0.00212826,-0.00013521,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+36,36,298.15,0.3,0.7,-0.00160698,-0.00030561,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+37,37,298.15,0.4,0.6,-0.00116122,-0.00054154,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+38,38,298.15,0.5,0.5,-0.00079093,-0.0008394,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+39,39,298.15,0.6,0.4,-0.00049523,-0.00119424,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+40,40,298.15,0.7,0.3,-0.00027219,-0.00159953,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+41,41,298.15,0.8,0.2,-0.00011867,-0.0020469,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+42,42,298.15,0.9,0.1,-3.005e-05,-0.00252605,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+43,43,298.15,1.0,0.0,0.0,-0.00302397,71-43-2,108-88-3,benzene,toluene,c1ccccc1,benzene,353.15,71-43-2,Cc1ccccc1,toluene,383.75,108-88-3
+44,44,298.15,0.0,1.0,-1.18076651,0.0,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+45,45,298.15,0.1,0.9,-1.06860713,-0.00671299,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+46,46,298.15,0.2,0.8,-0.93949183,-0.03036267,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+47,47,298.15,0.3,0.7,-0.7986074,-0.07842099,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+48,48,298.15,0.4,0.6,-0.64423949,-0.1630311,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+49,49,298.15,0.5,0.5,-0.47747802,-0.30140366,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+50,50,298.15,0.6,0.4,-0.31991173,-0.49531649,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+51,51,298.15,0.7,0.3,-0.21371182,-0.69169694,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+52,52,298.15,0.8,0.2,-0.12183748,-0.97460073,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+53,53,298.15,0.9,0.1,-0.03393652,-1.48135879,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+54,54,298.15,1.0,0.0,0.0,-2.12403585,67-66-3,502-42-1,chcl3,cycloheptanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+55,55,298.15,0.0,1.0,0.0055588,0.0,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+56,56,298.15,0.1,0.9,0.00406871,5.853e-05,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+57,57,298.15,0.2,0.8,0.00254293,0.00031195,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+58,58,298.15,0.3,0.7,0.00110134,0.00077643,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+59,59,298.15,0.4,0.6,-9.522e-05,0.00140619,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+60,60,298.15,0.5,0.5,-0.00095609,0.00210354,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+61,61,298.15,0.6,0.4,-0.00139215,0.00260849,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+62,62,298.15,0.7,0.3,-0.00135451,0.00248327,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+63,63,298.15,0.8,0.2,-0.00091375,0.00109381,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+64,64,298.15,0.9,0.1,-0.00032216,-0.00234209,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+65,65,298.15,1.0,0.0,0.0,-0.00838224,75-05-8,67-71-0,acetonitrile,dimethylsulfone,CC#N,acetonitrile,355.15,75-05-8,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+66,66,298.15,0.0,1.0,0.06569034,0.0,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+67,67,298.15,0.1,0.9,0.05905871,0.0003439,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+68,68,298.15,0.2,0.8,0.05213199,0.00156131,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+69,69,298.15,0.3,0.7,0.04492538,0.00395907,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+70,70,298.15,0.4,0.6,0.03747281,0.00796995,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+71,71,298.15,0.5,0.5,0.02984162,0.01421917,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+72,72,298.15,0.6,0.4,0.02215943,0.0236317,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+73,73,298.15,0.7,0.3,0.01466379,0.03761694,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+74,74,298.15,0.8,0.2,0.0077945,0.05839654,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+75,75,298.15,0.9,0.1,0.00237701,0.08960796,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+76,76,298.15,1.0,0.0,0.0,0.13749185,110-82-7,142-96-1,cyclohexane,di-n-butylether,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+77,77,298.15,0.0,1.0,0.85899723,0.0,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+78,78,298.15,0.1,0.9,0.73384503,0.00638366,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+79,79,298.15,0.2,0.8,0.61521625,0.02711674,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+80,80,298.15,0.3,0.7,0.50471132,0.06378362,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+81,81,298.15,0.4,0.6,0.40272048,0.11859956,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+82,82,298.15,0.5,0.5,0.30884374,0.19543933,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+83,83,298.15,0.6,0.4,0.22265266,0.30101573,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+84,84,298.15,0.7,0.3,0.14452005,0.44680312,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+85,85,298.15,0.8,0.2,0.07651182,0.65272724,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+86,86,298.15,0.9,0.1,0.02391959,0.95658993,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+87,87,298.15,1.0,0.0,0.0,1.45038715,110-82-7,502-42-1,cyclohexane,cycloheptanone,C1CCCCC1,cyclohexane,353.9,110-82-7,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+88,88,298.15,0.0,1.0,2.51666971,0.0,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+89,89,298.15,0.1,0.9,1.83529386,0.03358725,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+90,90,298.15,0.2,0.8,1.38158573,0.11261635,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+91,91,298.15,0.3,0.7,1.0362625,0.22721091,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+92,92,298.15,0.4,0.6,0.75820879,0.37667244,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+93,93,298.15,0.5,0.5,0.53011293,0.56320612,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+94,94,298.15,0.6,0.4,0.3441757,0.79052225,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+95,95,298.15,0.7,0.3,0.1973264,1.06347753,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+96,96,298.15,0.8,0.2,0.08940692,1.38771749,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+97,97,298.15,0.9,0.1,0.0225168,1.76745286,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+98,98,298.15,1.0,0.0,0.0,2.19180189,7732-18-5,75-05-8,h2o,acetonitrile,O,water,373.15,7732-18-5,CC#N,acetonitrile,355.15,75-05-8
+99,99,298.15,0.0,1.0,-0.10649606,0.0,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+100,100,298.15,0.1,0.9,-0.09183223,-0.00071843,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+101,101,298.15,0.2,0.8,-0.07738858,-0.00322165,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+102,102,298.15,0.3,0.7,-0.06327447,-0.00789153,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+103,103,298.15,0.4,0.6,-0.04965446,-0.01520503,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+104,104,298.15,0.5,0.5,-0.03677224,-0.02574303,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+105,105,298.15,0.6,0.4,-0.02497962,-0.04017834,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+106,106,298.15,0.7,0.3,-0.01476324,-0.05919899,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+107,107,298.15,0.8,0.2,-0.00675902,-0.083275,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+108,108,298.15,0.9,0.1,-0.0016784,-0.1120244,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+109,109,298.15,1.0,0.0,0.0,-0.142545,71-43-2,142-96-1,benzene,di-n-butylether,c1ccccc1,benzene,353.15,71-43-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+110,110,298.15,0.0,1.0,1.06083697,0.0,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+111,111,298.15,0.1,0.9,0.83036728,0.01023575,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+112,112,298.15,0.2,0.8,0.67758725,0.03706745,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+113,113,298.15,0.3,0.7,0.54507747,0.08122528,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+114,114,298.15,0.4,0.6,0.42668796,0.14503966,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+115,115,298.15,0.5,0.5,0.31999677,0.23250525,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+116,116,298.15,0.6,0.4,0.22426972,0.34985584,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+117,117,298.15,0.7,0.3,0.14021008,0.50665494,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+118,118,298.15,0.8,0.2,0.07035533,0.71764003,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+119,119,298.15,0.9,0.1,0.02017407,1.00546773,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+120,120,298.15,1.0,0.0,0.0,1.40339922,67-56-1,97-63-2,methanol,ethylmethacrylate,CO,methanol,337.85,67-56-1,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+121,121,298.15,0.0,1.0,-0.01465773,0.0,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+122,122,298.15,0.1,0.9,-0.01899286,0.00029387,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+123,123,298.15,0.2,0.8,-0.02300984,0.0010742,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+124,124,298.15,0.3,0.7,-0.02569335,0.0020469,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+125,125,298.15,0.4,0.6,-0.02630653,0.00245997,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+126,126,298.15,0.5,0.5,-0.02454661,0.00108517,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+127,127,298.15,0.6,0.4,-0.02029537,-0.00408911,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+128,128,298.15,0.7,0.3,-0.01431748,-0.01525508,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+129,129,298.15,0.8,0.2,-0.00777851,-0.03500774,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+130,130,298.15,0.9,0.1,-0.00233742,-0.06608547,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+131,131,298.15,1.0,0.0,0.0,-0.11120332,75-05-8,67-64-1,acetonitrile,propanone,CC#N,acetonitrile,355.15,75-05-8,CC(C)=O,acetone,329.15,67-64-1
+132,132,298.15,0.0,1.0,0.01771247,0.0,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+133,133,298.15,0.1,0.9,0.00605753,0.00058454,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+134,134,298.15,0.2,0.8,-0.00283268,0.00212211,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+135,135,298.15,0.3,0.7,-0.00908842,0.00417186,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+136,136,298.15,0.4,0.6,-0.01283546,0.0061465,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+137,137,298.15,0.5,0.5,-0.01421565,0.00721617,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+138,138,298.15,0.6,0.4,-0.01341417,0.00614416,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+139,139,298.15,0.7,0.3,-0.01072474,0.00098562,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+140,140,298.15,0.8,0.2,-0.00668065,-0.01148307,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+141,141,298.15,0.9,0.1,-0.00234586,-0.03693521,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+142,142,298.15,1.0,0.0,0.0,-0.08604696,108-88-3,75-29-6,toluene,2-chloropropane,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+143,143,298.15,0.0,1.0,-0.35114673,0.0,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+144,144,298.15,0.1,0.9,-0.30778122,-0.00246193,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+145,145,298.15,0.2,0.8,-0.2655832,-0.01010146,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+146,146,298.15,0.3,0.7,-0.22482501,-0.02389142,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+147,147,298.15,0.4,0.6,-0.18576431,-0.04514841,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+148,148,298.15,0.5,0.5,-0.14860202,-0.07581183,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+149,149,298.15,0.6,0.4,-0.1134305,-0.11913448,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+150,150,298.15,0.7,0.3,-0.08015987,-0.18147703,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+151,151,298.15,0.8,0.2,-0.04854238,-0.2777907,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+152,152,298.15,0.9,0.1,-0.01892124,-0.4519779,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+153,153,298.15,1.0,0.0,0.0,-0.88627146,71-43-2,502-42-1,benzene,cycloheptanone,c1ccccc1,benzene,353.15,71-43-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+154,154,298.15,0.0,1.0,1.79460094,0.0,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+155,155,298.15,0.1,0.9,1.14790024,0.02670679,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+156,156,298.15,0.2,0.8,0.86473772,0.07519464,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+157,157,298.15,0.3,0.7,0.67588152,0.13747567,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+158,158,298.15,0.4,0.6,0.52732636,0.21720959,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+159,159,298.15,0.5,0.5,0.39376399,0.32672632,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+160,160,298.15,0.6,0.4,0.26225086,0.48825819,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+161,161,298.15,0.7,0.3,0.14123332,0.7133405,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+162,162,298.15,0.8,0.2,0.05673854,0.96451772,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+163,163,298.15,0.9,0.1,0.01563527,1.19443411,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+164,164,298.15,1.0,0.0,0.0,1.5373017,7732-18-5,67-64-1,h2o,propanone,O,water,373.15,7732-18-5,CC(C)=O,acetone,329.15,67-64-1
+165,165,298.15,0.0,1.0,2.21485912,0.0,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+166,166,298.15,0.1,0.9,1.47461522,0.03680359,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+167,167,298.15,0.2,0.8,0.98367689,0.12161155,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+168,168,298.15,0.3,0.7,0.65942136,0.22847655,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+169,169,298.15,0.4,0.6,0.43684816,0.34752101,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+170,170,298.15,0.5,0.5,0.27931413,0.47583768,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+171,171,298.15,0.6,0.4,0.16704971,0.61260027,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+172,172,298.15,0.7,0.3,0.08877449,0.7575856,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+173,173,298.15,0.8,0.2,0.03761198,0.91067868,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+174,174,298.15,0.9,0.1,0.00905613,1.07169631,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+175,175,298.15,1.0,0.0,0.0,1.24046601,142-96-1,67-64-1,di-n-butylether,propanone,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CC(C)=O,acetone,329.15,67-64-1
+176,176,298.15,0.0,1.0,0.86263466,0.0,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+177,177,298.15,0.1,0.9,0.69560125,0.00872752,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+178,178,298.15,0.2,0.8,0.55043348,0.03431499,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+179,179,298.15,0.3,0.7,0.42379427,0.07651924,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+180,180,298.15,0.4,0.6,0.31412045,0.13558464,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+181,181,298.15,0.5,0.5,0.22070278,0.21204915,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+182,182,298.15,0.6,0.4,0.14331369,0.30670227,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+183,183,298.15,0.7,0.3,0.08203916,0.42061878,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+184,184,298.15,0.8,0.2,0.03723286,0.5552675,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+185,185,298.15,0.9,0.1,0.00953782,0.71272611,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+186,186,298.15,1.0,0.0,0.0,0.89607946,75-29-6,110-54-3,2-chloropropane,hexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCCC,hexane,341.85,110-54-3
+187,187,298.15,0.0,1.0,4.33770417,0.0,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+188,188,298.15,0.1,0.9,2.06127375,0.07360927,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+189,189,298.15,0.2,0.8,1.40566364,0.18573864,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+190,190,298.15,0.3,0.7,0.99847234,0.32002843,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+191,191,298.15,0.4,0.6,0.70679087,0.47633643,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+192,192,298.15,0.5,0.5,0.48530615,0.65715561,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+193,193,298.15,0.6,0.4,0.31357303,0.86693673,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+194,194,298.15,0.7,0.3,0.18145118,1.11258779,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+195,195,298.15,0.8,0.2,0.08442521,1.40470768,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+196,196,298.15,0.9,0.1,0.02238316,1.75915576,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+197,197,298.15,1.0,0.0,0.0,2.19560032,64-17-5,110-82-7,ethanol,cyclohexane,CCO,ethanol,351.52,64-17-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+198,198,298.15,0.0,1.0,-0.15275226,0.0,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+199,199,298.15,0.1,0.9,-0.13622332,-0.00083049,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+200,200,298.15,0.2,0.8,-0.11957234,-0.00372582,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+201,201,298.15,0.3,0.7,-0.10279511,-0.00927363,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+202,202,298.15,0.4,0.6,-0.08591494,-0.01831866,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+203,203,298.15,0.5,0.5,-0.06897072,-0.03215186,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+204,204,298.15,0.6,0.4,-0.05206823,-0.05279775,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+205,205,298.15,0.7,0.3,-0.03545258,-0.08372445,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+206,206,298.15,0.8,0.2,-0.01972882,-0.13126043,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+207,207,298.15,0.9,0.1,-0.00647493,-0.20793476,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+208,208,298.15,1.0,0.0,0.0,-0.34169927,71-43-2,97-63-2,benzene,ethylmethacrylate,c1ccccc1,benzene,353.15,71-43-2,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+209,209,298.15,0.0,1.0,1.43865803,0.0,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+210,210,298.15,0.1,0.9,1.1881033,0.01304828,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+211,211,298.15,0.2,0.8,0.9733125,0.05085057,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+212,212,298.15,0.3,0.7,0.78704072,0.11292372,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+213,213,298.15,0.4,0.6,0.62389636,0.20088203,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+214,214,298.15,0.5,0.5,0.48010856,0.31879472,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+215,215,298.15,0.6,0.4,0.35264104,0.47514595,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+216,216,298.15,0.7,0.3,0.23962245,0.68633605,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+217,217,298.15,0.8,0.2,0.14002074,0.98884372,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+218,218,298.15,0.9,0.1,0.05486657,1.4875524,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+219,219,298.15,1.0,0.0,0.0,2.96917105,108-88-3,64-17-5,toluene,ethanol,Cc1ccccc1,toluene,383.75,108-88-3,CCO,ethanol,351.52,64-17-5
+220,220,298.15,0.0,1.0,0.33932791,0.0,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+221,221,298.15,0.1,0.9,0.27378305,0.00344295,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+222,222,298.15,0.2,0.8,0.21572598,0.01368233,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+223,223,298.15,0.3,0.7,0.16489967,0.03061962,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+224,224,298.15,0.4,0.6,0.12109599,0.05420312,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+225,225,298.15,0.5,0.5,0.08415407,0.08442777,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+226,226,298.15,0.6,0.4,0.05395953,0.12133568,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+227,227,298.15,0.7,0.3,0.0304442,0.16501724,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+228,228,298.15,0.8,0.2,0.01358659,0.2156131,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+229,229,298.15,0.9,0.1,0.00341311,0.27331691,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+230,230,298.15,1.0,0.0,0.0,0.33837895,108-88-3,110-54-3,toluene,hexane,Cc1ccccc1,toluene,383.75,108-88-3,CCCCCC,hexane,341.85,110-54-3
+231,231,298.15,0.0,1.0,1.01650006,0.0,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+232,232,298.15,0.1,0.9,0.87167262,0.00924822,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+233,233,298.15,0.2,0.8,0.70517052,0.0386111,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+234,234,298.15,0.3,0.7,0.55524713,0.08859389,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+235,235,298.15,0.4,0.6,0.42033197,0.16130123,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+236,236,298.15,0.5,0.5,0.2995754,0.26025279,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+237,237,298.15,0.6,0.4,0.19355696,0.39006758,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+238,238,298.15,0.7,0.3,0.10471604,0.55533266,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+239,239,298.15,0.8,0.2,0.03806803,0.75519789,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+240,240,298.15,0.9,0.1,0.00209142,0.95390659,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+241,241,298.15,1.0,0.0,0.0,0.89249886,7732-18-5,67-71-0,h2o,dimethylsulfone,O,water,373.15,7732-18-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+242,242,298.15,0.0,1.0,0.34590451,0.0,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+243,243,298.15,0.1,0.9,0.27057678,0.00392432,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+244,244,298.15,0.2,0.8,0.20685129,0.01513014,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+245,245,298.15,0.3,0.7,0.15349869,0.03287443,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+246,246,298.15,0.4,0.6,0.10948142,0.05653545,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+247,247,298.15,0.5,0.5,0.07391849,0.08559032,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+248,248,298.15,0.6,0.4,0.04605785,0.11959745,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+249,249,298.15,0.7,0.3,0.02525449,0.15818267,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+250,250,298.15,0.8,0.2,0.01095298,0.20102817,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+251,251,298.15,0.9,0.1,0.00267342,0.24786361,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+252,252,298.15,1.0,0.0,0.0,0.29845894,108-88-3,110-82-7,toluene,cyclohexane,Cc1ccccc1,toluene,383.75,108-88-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+253,253,298.15,0.0,1.0,9.27461304,0.0,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+254,254,298.15,0.1,0.9,5.47930012,0.17425142,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+255,255,298.15,0.2,0.8,3.60583975,0.4949948,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+256,256,298.15,0.3,0.7,2.48180964,0.86449275,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+257,257,298.15,0.4,0.6,1.73273687,1.26471404,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+258,258,298.15,0.5,0.5,1.19996982,1.69866562,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+259,259,298.15,0.6,0.4,0.80486316,2.18060303,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+260,260,298.15,0.7,0.3,0.50434207,2.73916553,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+261,261,298.15,0.8,0.2,0.27368241,3.43539799,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+262,262,298.15,0.9,0.1,0.10042451,4.44113383,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+263,263,298.15,1.0,0.0,0.0,7.15019081,108-88-3,7732-18-5,toluene,h2o,Cc1ccccc1,toluene,383.75,108-88-3,O,water,373.15,7732-18-5
+264,264,298.15,0.0,1.0,0.55025765,0.0,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+265,265,298.15,0.1,0.9,0.38950762,0.00803777,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+266,266,298.15,0.2,0.8,0.27217043,0.02837095,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+267,267,298.15,0.3,0.7,0.18684266,0.05651554,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+268,268,298.15,0.4,0.6,0.12469241,0.0897438,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+269,269,298.15,0.5,0.5,0.07959281,0.1264632,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+270,270,298.15,0.6,0.4,0.04728513,0.16581574,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+271,271,298.15,0.7,0.3,0.0248959,0.20729614,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+272,272,298.15,0.8,0.2,0.01042242,0.25061431,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+273,273,298.15,0.9,0.1,0.00247377,0.2955366,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+274,274,298.15,1.0,0.0,0.0,0.34193529,97-63-2,67-64-1,ethylmethacrylate,propanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CC(C)=O,acetone,329.15,67-64-1
+275,275,298.15,0.0,1.0,0.90732935,0.0,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+276,276,298.15,0.1,0.9,0.70585652,0.01040014,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+277,277,298.15,0.2,0.8,0.54112675,0.03932933,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+278,278,298.15,0.3,0.7,0.40463406,0.08471761,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+279,279,298.15,0.4,0.6,0.29174591,0.14541332,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+280,280,298.15,0.5,0.5,0.1996042,0.22072548,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+281,281,298.15,0.6,0.4,0.126295,0.31026687,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+282,282,298.15,0.7,0.3,0.07046672,0.41390968,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+283,283,298.15,0.8,0.2,0.03116772,0.5318085,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+284,284,298.15,0.9,0.1,0.00777549,0.66447654,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+285,285,298.15,1.0,0.0,0.0,0.81292733,75-29-6,110-82-7,2-chloropropane,cyclohexane,CC(C)Cl,isopropyl chloride,308.89,75-29-6,C1CCCCC1,cyclohexane,353.9,110-82-7
+286,286,298.15,0.0,1.0,4.2324787,0.0,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+287,287,298.15,0.1,0.9,2.12473357,0.06945878,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+288,288,298.15,0.2,0.8,1.4831802,0.1793645,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+289,289,298.15,0.3,0.7,1.07531325,0.31400053,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+290,290,298.15,0.4,0.6,0.77669591,0.4741713,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+291,291,298.15,0.5,0.5,0.54445431,0.66395248,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+292,292,298.15,0.6,0.4,0.35966503,0.88990922,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+293,293,298.15,0.7,0.3,0.21317365,1.1625776,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+294,294,298.15,0.8,0.2,0.10193351,1.49802976,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+295,295,298.15,0.9,0.1,0.02791567,1.9221662,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+296,296,298.15,1.0,0.0,0.0,2.47161135,64-17-5,110-54-3,ethanol,hexane,CCO,ethanol,351.52,64-17-5,CCCCCC,hexane,341.85,110-54-3
+297,297,298.15,0.0,1.0,-0.18529035,0.0,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+298,298,298.15,0.1,0.9,-0.16231403,-0.00128981,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+299,299,298.15,0.2,0.8,-0.13805635,-0.00565524,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+300,300,298.15,0.3,0.7,-0.11334532,-0.01396703,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+301,301,298.15,0.4,0.6,-0.0890204,-0.02714724,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+302,302,298.15,0.5,0.5,-0.06594437,-0.04612419,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+303,303,298.15,0.6,0.4,-0.04497841,-0.07186985,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+304,304,298.15,0.7,0.3,-0.02697939,-0.10545895,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+305,305,298.15,0.8,0.2,-0.01282158,-0.14815509,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+306,306,298.15,0.9,0.1,-0.00344638,-0.20168704,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+307,307,298.15,1.0,0.0,0.0,-0.26863527,67-66-3,75-29-6,chcl3,2-chloropropane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+308,308,298.15,0.0,1.0,0.88825177,0.0,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+309,309,298.15,0.1,0.9,0.84483947,0.00436443,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+310,310,298.15,0.2,0.8,0.73705676,0.02353138,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+311,311,298.15,0.3,0.7,0.62453443,0.06119514,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+312,312,298.15,0.4,0.6,0.51166759,0.12222645,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+313,313,298.15,0.5,0.5,0.40043359,0.21365442,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+314,314,298.15,0.6,0.4,0.29281603,0.34595278,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+315,315,298.15,0.7,0.3,0.1915879,0.53539673,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+316,316,298.15,0.8,0.2,0.10143166,0.80865238,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+317,317,298.15,0.9,0.1,0.03130872,1.21338009,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+318,318,298.15,1.0,0.0,0.0,1.84993831,67-56-1,67-71-0,methanol,dimethylsulfone,CO,methanol,337.85,67-56-1,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+319,319,298.15,0.0,1.0,8.09239907,0.0,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+320,320,298.15,0.1,0.9,5.02413348,0.14354523,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+321,321,298.15,0.2,0.8,3.39079064,0.4241639,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+322,322,298.15,0.3,0.7,2.36839594,0.76073325,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+323,323,298.15,0.4,0.6,1.66891705,1.13473842,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+324,324,298.15,0.5,0.5,1.16276984,1.54719645,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+325,325,298.15,0.6,0.4,0.78311501,2.01042108,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+326,326,298.15,0.7,0.3,0.49235381,2.55093432,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+327,327,298.15,0.8,0.2,0.26841593,3.22693894,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+328,328,298.15,0.9,0.1,0.0996533,4.2069842,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+329,329,298.15,1.0,0.0,0.0,6.93903415,71-43-2,7732-18-5,benzene,h2o,c1ccccc1,benzene,353.15,71-43-2,O,water,373.15,7732-18-5
+330,330,298.15,0.0,1.0,0.39787475,0.0,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+331,331,298.15,0.1,0.9,0.27686176,0.00540059,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+332,332,298.15,0.2,0.8,0.2025321,0.01809036,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+333,333,298.15,0.3,0.7,0.14721599,0.03617769,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+334,334,298.15,0.4,0.6,0.10348523,0.05939001,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+335,335,298.15,0.5,0.5,0.06844258,0.08770287,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+336,336,298.15,0.6,0.4,0.04103228,0.12078463,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+337,337,298.15,0.7,0.3,0.02098863,0.15745114,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+338,338,298.15,0.8,0.2,0.00810656,0.19521714,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+339,339,298.15,0.9,0.1,0.00165873,0.23000831,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+340,340,298.15,1.0,0.0,0.0,0.25568458,67-56-1,67-64-1,methanol,propanone,CO,methanol,337.85,67-56-1,CC(C)=O,acetone,329.15,67-64-1
+341,341,298.15,0.0,1.0,1.87975923,0.0,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+342,342,298.15,0.1,0.9,1.66047713,0.01221408,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+343,343,298.15,0.2,0.8,1.41891294,0.05530464,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+344,344,298.15,0.3,0.7,1.17028119,0.13853863,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+345,345,298.15,0.4,0.6,0.92636966,0.27025903,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+346,346,298.15,0.5,0.5,0.69624567,0.45910892,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+347,347,298.15,0.6,0.4,0.48702246,0.71576576,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+348,348,298.15,0.7,0.3,0.30466566,1.05611681,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+349,349,298.15,0.8,0.2,0.15481246,1.50932332,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+350,350,298.15,0.9,0.1,0.04584202,2.13774922,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+351,351,298.15,1.0,0.0,0.0,3.05801187,75-05-8,142-96-1,acetonitrile,di-n-butylether,CC#N,acetonitrile,355.15,75-05-8,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+352,352,298.15,0.0,1.0,3.04707256,0.0,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+353,353,298.15,0.1,0.9,2.29692851,0.038494,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+354,354,298.15,0.2,0.8,1.72059734,0.13924012,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+355,355,298.15,0.3,0.7,1.28557157,0.28351526,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+356,356,298.15,0.4,0.6,0.95330022,0.46205461,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+357,357,298.15,0.5,0.5,0.69066957,0.67692439,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+358,358,298.15,0.6,0.4,0.47537644,0.94077028,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+359,359,298.15,0.7,0.3,0.29577374,1.27587789,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+360,360,298.15,0.8,0.2,0.14961996,1.71779604,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+361,361,298.15,0.9,0.1,0.04396419,2.32571769,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+362,362,298.15,1.0,0.0,0.0,3.21148903,67-71-0,502-42-1,dimethylsulfone,cycloheptanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+363,363,298.15,0.0,1.0,6.0091836,0.0,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+364,364,298.15,0.1,0.9,4.49922384,0.07551164,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+365,365,298.15,0.2,0.8,3.41925982,0.26321519,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+366,366,298.15,0.3,0.7,2.63319712,0.52419908,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+367,367,298.15,0.4,0.6,2.02337962,0.85280667,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+368,368,298.15,0.5,0.5,1.52390379,1.26270428,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+369,369,298.15,0.6,0.4,1.09777182,1.78600918,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+370,370,298.15,0.7,0.3,0.72396124,2.48524197,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+371,371,298.15,0.8,0.2,0.39789782,3.47398528,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+372,372,298.15,0.9,0.1,0.13383001,5.00692435,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+373,373,298.15,1.0,0.0,0.0,7.85042266,67-71-0,142-96-1,dimethylsulfone,di-n-butylether,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+374,374,298.15,0.0,1.0,1.43641816,0.0,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+375,375,298.15,0.1,0.9,1.01135396,0.02110948,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+376,376,298.15,0.2,0.8,0.72096312,0.07165009,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+377,377,298.15,0.3,0.7,0.51029787,0.14141219,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+378,378,298.15,0.4,0.6,0.35352518,0.2255642,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+379,379,298.15,0.5,0.5,0.23548092,0.32204542,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+380,380,298.15,0.6,0.4,0.14661873,0.43072449,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+381,381,298.15,0.7,0.3,0.08105175,0.55281332,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+382,382,298.15,0.8,0.2,0.03552877,0.69014717,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+383,383,298.15,0.9,0.1,0.00865794,0.84405626,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+384,384,298.15,1.0,0.0,0.0,1.01397879,502-42-1,110-54-3,cycloheptanone,hexane,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCCC,hexane,341.85,110-54-3
+385,385,298.15,0.0,1.0,0.73727278,0.0,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+386,386,298.15,0.1,0.9,0.64002968,0.00534863,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+387,387,298.15,0.2,0.8,0.54243384,0.02278598,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+388,388,298.15,0.3,0.7,0.44594431,0.05517878,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+389,389,298.15,0.4,0.6,0.35237069,0.10582378,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+390,390,298.15,0.5,0.5,0.26380357,0.17861602,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+391,391,298.15,0.6,0.4,0.1826944,0.27822538,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+392,392,298.15,0.7,0.3,0.11188214,0.41052415,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+393,393,298.15,0.8,0.2,0.05464632,0.58378096,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+394,394,298.15,0.9,0.1,0.01520105,0.81076045,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+395,395,298.15,1.0,0.0,0.0,1.10701757,75-05-8,97-63-2,acetonitrile,ethylmethacrylate,CC#N,acetonitrile,355.15,75-05-8,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+396,396,298.15,0.0,1.0,0.30811946,0.0,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+397,397,298.15,0.1,0.9,0.27831843,0.0016696,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+398,398,298.15,0.2,0.8,0.24299769,0.00806056,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+399,399,298.15,0.3,0.7,0.20339163,0.02148159,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+400,400,298.15,0.4,0.6,0.16120377,0.04454436,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+401,401,298.15,0.5,0.5,0.11911043,0.07944867,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+402,402,298.15,0.6,0.4,0.07961996,0.12832189,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+403,403,298.15,0.7,0.3,0.04567228,0.19218443,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+404,404,298.15,0.8,0.2,0.02004404,0.27023613,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+405,405,298.15,0.9,0.1,0.00469911,0.35826003,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+406,406,298.15,1.0,0.0,0.0,0.44572477,75-05-8,502-42-1,acetonitrile,cycloheptanone,CC#N,acetonitrile,355.15,75-05-8,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+407,407,298.15,0.0,1.0,1.26718079,0.0,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+408,408,298.15,0.1,0.9,0.99593917,0.01428879,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+409,409,298.15,0.2,0.8,0.76652495,0.05446194,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+410,410,298.15,0.3,0.7,0.57662943,0.11754229,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+411,411,298.15,0.4,0.6,0.41841823,0.20266076,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+412,412,298.15,0.5,0.5,0.28676879,0.31039822,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+413,413,298.15,0.6,0.4,0.17954455,0.4415404,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+414,414,298.15,0.7,0.3,0.09640852,0.59604735,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+415,415,298.15,0.8,0.2,0.03828329,0.77026643,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+416,416,298.15,0.9,0.1,0.00680412,0.94635023,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+417,417,298.15,1.0,0.0,0.0,1.04540356,71-43-2,75-05-8,benzene,acetonitrile,c1ccccc1,benzene,353.15,71-43-2,CC#N,acetonitrile,355.15,75-05-8
+418,418,298.15,0.0,1.0,-0.04628911,0.0,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+419,419,298.15,0.1,0.9,-0.03744833,-0.00052849,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+420,420,298.15,0.2,0.8,-0.02954322,-0.00197927,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+421,421,298.15,0.3,0.7,-0.02257976,-0.00434617,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+422,422,298.15,0.4,0.6,-0.01656148,-0.00762358,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+423,423,298.15,0.5,0.5,-0.01148754,-0.01179823,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+424,424,298.15,0.6,0.4,-0.00735265,-0.01685438,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+425,425,298.15,0.7,0.3,-0.00414516,-0.02278252,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+426,426,298.15,0.8,0.2,-0.00185416,-0.02956752,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+427,427,298.15,0.9,0.1,-0.0004775,-0.03719615,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+428,428,298.15,1.0,0.0,0.0,-0.04566137,97-63-2,502-42-1,ethylmethacrylate,cycloheptanone,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+429,429,298.15,0.0,1.0,0.36080426,0.0,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+430,430,298.15,0.1,0.9,0.30076573,0.00323211,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+431,431,298.15,0.2,0.8,0.24488039,0.01316627,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+432,432,298.15,0.3,0.7,0.19351573,0.03035763,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+433,433,298.15,0.4,0.6,0.14703995,0.05545008,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+434,434,298.15,0.5,0.5,0.10586065,0.08921684,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+435,435,298.15,0.6,0.4,0.07043956,0.13261527,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+436,436,298.15,0.7,0.3,0.04132147,0.18684465,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+437,437,298.15,0.8,0.2,0.01920624,0.25344343,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+438,438,298.15,0.9,0.1,0.005022,0.33440071,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+439,439,298.15,1.0,0.0,0.0,0.43234577,97-63-2,142-96-1,ethylmethacrylate,di-n-butylether,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+440,440,298.15,0.0,1.0,0.28828079,0.0,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+441,441,298.15,0.1,0.9,0.21953957,0.00350663,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+442,442,298.15,0.2,0.8,0.16256289,0.01343603,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+443,443,298.15,0.3,0.7,0.11683475,0.02855377,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+444,444,298.15,0.4,0.6,0.08112071,0.04766755,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+445,445,298.15,0.5,0.5,0.05382516,0.06989717,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+446,446,298.15,0.6,0.4,0.03342435,0.09478347,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+447,447,298.15,0.7,0.3,0.01854223,0.12226895,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+448,448,298.15,0.8,0.2,0.00828166,0.15280581,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+449,449,298.15,0.9,0.1,0.00212038,0.18741334,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+450,450,298.15,1.0,0.0,0.0,0.22765228,75-29-6,67-64-1,2-chloropropane,propanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CC(C)=O,acetone,329.15,67-64-1
+451,451,298.15,0.0,1.0,2.40191658,0.0,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+452,452,298.15,0.1,0.9,1.8424456,0.02864689,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+453,453,298.15,0.2,0.8,1.39970464,0.10622168,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+454,454,298.15,0.3,0.7,1.04735199,0.22328378,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+455,455,298.15,0.4,0.6,0.76932761,0.37278394,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+456,456,298.15,0.5,0.5,0.55093794,0.55145733,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+457,457,298.15,0.6,0.4,0.37690211,0.76432746,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+458,458,298.15,0.7,0.3,0.23625832,1.02628765,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+459,459,298.15,0.8,0.2,0.12407045,1.36517902,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+460,460,298.15,0.9,0.1,0.0413009,1.84279984,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+461,461,298.15,1.0,0.0,0.0,2.8013622,75-29-6,67-71-0,2-chloropropane,dimethylsulfone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+462,462,298.15,0.0,1.0,0.63614897,0.0,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+463,463,298.15,0.1,0.9,0.52701016,0.00573705,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+464,464,298.15,0.2,0.8,0.42218106,0.02426728,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+465,465,298.15,0.3,0.7,0.32408504,0.05696657,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+466,466,298.15,0.4,0.6,0.23794639,0.10328593,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+467,467,298.15,0.5,0.5,0.16708155,0.16115567,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+468,468,298.15,0.6,0.4,0.11116914,0.22941832,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+469,469,298.15,0.7,0.3,0.06768653,0.31025834,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+470,470,298.15,0.8,0.2,0.03406174,0.41171962,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+471,471,298.15,0.9,0.1,0.0100273,0.54997011,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+472,472,298.15,1.0,0.0,0.0,0.75025571,7732-18-5,67-56-1,h2o,methanol,O,water,373.15,7732-18-5,CO,methanol,337.85,67-56-1
+473,473,298.15,0.0,1.0,2.59188568,0.0,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+474,474,298.15,0.1,0.9,1.4362607,0.05357894,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+475,475,298.15,0.2,0.8,0.93026359,0.14006666,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+476,476,298.15,0.3,0.7,0.62490624,0.24056381,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+477,477,298.15,0.4,0.6,0.41692305,0.3517563,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+478,478,298.15,0.5,0.5,0.2685735,0.47253308,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+479,479,298.15,0.6,0.4,0.16174461,0.60255674,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+480,480,298.15,0.7,0.3,0.08651776,0.74171574,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+481,481,298.15,0.8,0.2,0.03688106,0.8899725,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+482,482,298.15,0.9,0.1,0.0089335,1.0472468,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+483,483,298.15,1.0,0.0,0.0,1.21330745,64-17-5,75-29-6,ethanol,2-chloropropane,CCO,ethanol,351.52,64-17-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+484,484,298.15,0.0,1.0,0.99363787,0.0,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+485,485,298.15,0.1,0.9,0.80699151,0.009865,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+486,486,298.15,0.2,0.8,0.6406006,0.03927842,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+487,487,298.15,0.3,0.7,0.49466319,0.08798721,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+488,488,298.15,0.4,0.6,0.36892285,0.1557851,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+489,489,298.15,0.5,0.5,0.26255479,0.24296467,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+490,490,298.15,0.6,0.4,0.17442053,0.35093771,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+491,491,298.15,0.7,0.3,0.10348334,0.48306926,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+492,492,298.15,0.8,0.2,0.04940113,0.64595388,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+493,493,298.15,0.9,0.1,0.01335907,0.8520482,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+494,494,298.15,1.0,0.0,0.0,1.08379956,75-05-8,67-56-1,acetonitrile,methanol,CC#N,acetonitrile,355.15,75-05-8,CO,methanol,337.85,67-56-1
+495,495,298.15,0.0,1.0,0.46507072,0.0,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+496,496,298.15,0.1,0.9,0.33516925,0.00651477,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+497,497,298.15,0.2,0.8,0.23562517,0.02373786,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+498,498,298.15,0.3,0.7,0.16086795,0.04831659,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+499,499,298.15,0.4,0.6,0.10576989,0.0776463,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+500,500,298.15,0.5,0.5,0.06602417,0.10982479,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+501,501,298.15,0.6,0.4,0.03816134,0.14349295,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+502,502,298.15,0.7,0.3,0.01950139,0.17770903,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+503,503,298.15,0.8,0.2,0.00794138,0.21185201,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+504,504,298.15,0.9,0.1,0.00185707,0.24550334,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+505,505,298.15,1.0,0.0,0.0,0.27841115,502-42-1,67-64-1,cycloheptanone,propanone,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CC(C)=O,acetone,329.15,67-64-1
+506,506,298.15,0.0,1.0,-0.18374518,0.0,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+507,507,298.15,0.1,0.9,-0.14447674,-0.00204827,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+508,508,298.15,0.2,0.8,-0.11081011,-0.00797133,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+509,509,298.15,0.3,0.7,-0.08235565,-0.017438,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+510,510,298.15,0.4,0.6,-0.05873976,-0.03013558,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+511,511,298.15,0.5,0.5,-0.03960656,-0.04577124,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+512,512,298.15,0.6,0.4,-0.02461758,-0.06407374,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+513,513,298.15,0.7,0.3,-0.01344981,-0.08479402,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+514,514,298.15,0.8,0.2,-0.00580451,-0.10770647,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+515,515,298.15,0.9,0.1,-0.00140604,-0.13260786,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+516,516,298.15,1.0,0.0,0.0,-0.1593197,108-88-3,67-66-3,toluene,chcl3,Cc1ccccc1,toluene,383.75,108-88-3,ClC(Cl)Cl,chloroform,334.15,67-66-3
+517,517,298.15,0.0,1.0,4.47258569,0.0,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+518,518,298.15,0.1,0.9,2.34075467,0.07027318,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+519,519,298.15,0.2,0.8,1.67519458,0.18447887,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+520,520,298.15,0.3,0.7,1.24138419,0.3277967,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+521,521,298.15,0.4,0.6,0.91603509,0.50237129,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+522,522,298.15,0.5,0.5,0.65680156,0.71429375,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+523,523,298.15,0.6,0.4,0.44482942,0.97365249,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+524,524,298.15,0.7,0.3,0.27150333,1.29654427,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+525,525,298.15,0.8,0.2,0.13441347,1.71044362,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+526,526,298.15,0.9,0.1,0.0381756,2.26301608,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+527,527,298.15,1.0,0.0,0.0,3.0145454,67-56-1,110-82-7,methanol,cyclohexane,CO,methanol,337.85,67-56-1,C1CCCCC1,cyclohexane,353.9,110-82-7
+528,528,298.15,0.0,1.0,9.17947312,0.0,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+529,529,298.15,0.1,0.9,5.17733231,0.12715732,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+530,530,298.15,0.2,0.8,3.96881072,0.33506697,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+531,531,298.15,0.3,0.7,3.14489772,0.6078915,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+532,532,298.15,0.4,0.6,2.49040505,0.9599153,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+533,533,298.15,0.5,0.5,1.93025022,1.41902995,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+534,534,298.15,0.6,0.4,1.42974272,2.03334592,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+535,535,298.15,0.7,0.3,0.97211826,2.88955944,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+536,536,298.15,0.8,0.2,0.55408139,4.16058804,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+537,537,298.15,0.9,0.1,0.19509025,6.25631698,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+538,538,298.15,1.0,0.0,0.0,10.51840378,7732-18-5,110-82-7,h2o,cyclohexane,O,water,373.15,7732-18-5,C1CCCCC1,cyclohexane,353.9,110-82-7
+539,539,298.15,0.0,1.0,3.7688145,0.0,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+540,540,298.15,0.1,0.9,2.72553304,0.03804851,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+541,541,298.15,0.2,0.8,2.27352517,0.11667887,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+542,542,298.15,0.3,0.7,1.91778508,0.23508209,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+543,543,298.15,0.4,0.6,1.60055794,0.40641573,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+544,544,298.15,0.5,0.5,1.29419508,0.65855586,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+545,545,298.15,0.6,0.4,0.98581694,1.03846636,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+546,546,298.15,0.7,0.3,0.67803179,1.61567764,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+547,547,298.15,0.8,0.2,0.38721113,2.50005796,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+548,548,298.15,0.9,0.1,0.13835526,3.95175014,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+549,549,298.15,1.0,0.0,0.0,7.03189216,7732-18-5,97-63-2,h2o,ethylmethacrylate,O,water,373.15,7732-18-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+550,550,298.15,0.0,1.0,2.83008852,0.0,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+551,551,298.15,0.1,0.9,2.19233139,0.03281158,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+552,552,298.15,0.2,0.8,1.6819084,0.12230196,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+553,553,298.15,0.3,0.7,1.27461481,0.25767762,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+554,554,298.15,0.4,0.6,0.94797178,0.43346972,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+555,555,298.15,0.5,0.5,0.6827966,0.65062308,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+556,556,298.15,0.6,0.4,0.46247288,0.92062118,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+557,557,298.15,0.7,0.3,0.27837615,1.26402695,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+558,558,298.15,0.8,0.2,0.13171898,1.70675197,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+559,559,298.15,0.9,0.1,0.03318717,2.26904943,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+560,560,298.15,1.0,0.0,0.0,2.91980686,71-43-2,67-71-0,benzene,dimethylsulfone,c1ccccc1,benzene,353.15,71-43-2,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+561,561,298.15,0.0,1.0,0.54268528,0.0,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+562,562,298.15,0.1,0.9,0.5002822,0.00205059,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+563,563,298.15,0.2,0.8,0.46833044,0.00753703,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+564,564,298.15,0.3,0.7,0.43587942,0.01833869,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+565,565,298.15,0.4,0.6,0.392824,0.04185556,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+566,566,298.15,0.5,0.5,0.33685559,0.08802093,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+567,567,298.15,0.6,0.4,0.27288628,0.16722084,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+568,568,298.15,0.7,0.3,0.20287836,0.29932973,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+569,569,298.15,0.8,0.2,0.12883468,0.52644713,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+570,570,298.15,0.9,0.1,0.05455276,0.96670358,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+571,571,298.15,1.0,0.0,0.0,2.49328655,67-66-3,64-17-5,chcl3,ethanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCO,ethanol,351.52,64-17-5
+572,572,298.15,0.0,1.0,0.40593494,0.0,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+573,573,298.15,0.1,0.9,0.30673772,0.00513311,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+574,574,298.15,0.2,0.8,0.22057637,0.02023893,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+575,575,298.15,0.3,0.7,0.14950703,0.04384665,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+576,576,298.15,0.4,0.6,0.0936139,0.07388224,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+577,577,298.15,0.5,0.5,0.0517778,0.10807396,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+578,578,298.15,0.6,0.4,0.02253688,0.14374486,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+579,579,298.15,0.7,0.3,0.00453919,0.17699179,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+580,580,298.15,0.8,0.2,-0.00344998,0.20050016,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+581,581,298.15,0.9,0.1,-0.00317672,0.19676812,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+582,582,298.15,1.0,0.0,0.0,0.11795629,71-43-2,67-64-1,benzene,propanone,c1ccccc1,benzene,353.15,71-43-2,CC(C)=O,acetone,329.15,67-64-1
+583,583,298.15,0.0,1.0,9.01495068,0.0,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+584,584,298.15,0.1,0.9,5.29790387,0.11983942,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+585,585,298.15,0.2,0.8,4.12675574,0.3215484,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+586,586,298.15,0.3,0.7,3.31642583,0.59003153,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+587,587,298.15,0.4,0.6,2.66419519,0.94101364,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+588,588,298.15,0.5,0.5,2.09778036,1.40550994,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+589,589,298.15,0.6,0.4,1.58262477,2.03823349,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+590,590,298.15,0.7,0.3,1.10068691,2.94082002,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+591,591,298.15,0.8,0.2,0.64641282,4.32435244,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+592,592,298.15,0.9,0.1,0.23790753,6.71849419,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+593,593,298.15,1.0,0.0,0.0,12.04127174,7732-18-5,110-54-3,h2o,hexane,O,water,373.15,7732-18-5,CCCCCC,hexane,341.85,110-54-3
+594,594,298.15,0.0,1.0,4.35391792,0.0,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+595,595,298.15,0.1,0.9,2.38651731,0.06570349,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+596,596,298.15,0.2,0.8,1.74237886,0.17639894,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+597,597,298.15,0.3,0.7,1.31432807,0.31791702,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+598,598,298.15,0.4,0.6,0.98738781,0.49347869,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+599,599,298.15,0.5,0.5,0.72156782,0.71093624,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+600,600,298.15,0.6,0.4,0.49909563,0.98341149,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+601,601,298.15,0.7,0.3,0.31199087,1.33236871,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+602,602,298.15,0.8,0.2,0.15899569,1.79508257,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+603,603,298.15,0.9,0.1,0.04689562,2.44100214,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+604,604,298.15,1.0,0.0,0.0,3.37516454,67-56-1,110-54-3,methanol,hexane,CO,methanol,337.85,67-56-1,CCCCCC,hexane,341.85,110-54-3
+605,605,298.15,0.0,1.0,-0.06591826,0.0,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+606,606,298.15,0.1,0.9,-0.06267948,-0.00019071,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+607,607,298.15,0.2,0.8,-0.05876173,-0.00090521,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+608,608,298.15,0.3,0.7,-0.05402239,-0.00251343,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+609,609,298.15,0.4,0.6,-0.04832127,-0.00562454,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+610,610,298.15,0.5,0.5,-0.04152354,-0.0112542,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+611,611,298.15,0.6,0.4,-0.03353854,-0.02113734,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+612,612,298.15,0.7,0.3,-0.02439731,-0.03835859,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+613,613,298.15,0.8,0.2,-0.01446872,-0.06871854,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+614,614,298.15,0.9,0.1,-0.00503246,-0.12394455,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+615,615,298.15,1.0,0.0,0.0,-0.23019859,71-43-2,75-29-6,benzene,2-chloropropane,c1ccccc1,benzene,353.15,71-43-2,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+616,616,298.15,0.0,1.0,0.00627503,0.0,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+617,617,298.15,0.1,0.9,0.00645392,-5.14e-06,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+618,618,298.15,0.2,0.8,0.00599222,8.415e-05,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+619,619,298.15,0.3,0.7,0.00503422,0.00041655,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+620,620,298.15,0.4,0.6,0.00378684,0.00110633,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+621,621,298.15,0.5,0.5,0.0024858,0.00219,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+622,622,298.15,0.6,0.4,0.00135599,0.00358737,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+623,623,298.15,0.7,0.3,0.00055072,0.0050951,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+624,624,298.15,0.8,0.2,0.00012175,0.00638301,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+625,625,298.15,0.9,0.1,-2.8e-06,0.00704983,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+626,626,298.15,1.0,0.0,0.0,0.00667265,67-56-1,64-17-5,methanol,ethanol,CO,methanol,337.85,67-56-1,CCO,ethanol,351.52,64-17-5
+627,627,298.15,0.0,1.0,1.32515372,0.0,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+628,628,298.15,0.1,0.9,1.01986708,0.01560728,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+629,629,298.15,0.2,0.8,0.81585573,0.05294424,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+630,630,298.15,0.3,0.7,0.67281921,0.10382795,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+631,631,298.15,0.4,0.6,0.55836891,0.16999286,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+632,632,298.15,0.5,0.5,0.45284545,0.26156815,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+633,633,298.15,0.6,0.4,0.34745674,0.39597555,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+634,634,298.15,0.7,0.3,0.24029061,0.60099546,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+635,635,298.15,0.8,0.2,0.13498129,0.92413216,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+636,636,298.15,0.9,0.1,0.04390103,1.45307835,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+637,637,298.15,1.0,0.0,0.0,2.34576753,67-56-1,142-96-1,methanol,di-n-butylether,CO,methanol,337.85,67-56-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+638,638,298.15,0.0,1.0,6.28342163,0.0,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+639,639,298.15,0.1,0.9,3.78432099,0.10676647,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+640,640,298.15,0.2,0.8,2.75485987,0.28582865,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+641,641,298.15,0.3,0.7,2.21508336,0.47125979,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+642,642,298.15,0.4,0.6,1.86048345,0.67151462,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+643,643,298.15,0.5,0.5,1.5551696,0.93194197,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+644,644,298.15,0.6,0.4,1.25375787,1.31090366,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+645,645,298.15,0.7,0.3,0.94444339,1.8952049,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+646,646,298.15,0.8,0.2,0.61407208,2.90164035,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+647,647,298.15,0.9,0.1,0.2588112,4.99174976,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+648,648,298.15,1.0,0.0,0.0,11.16253658,7732-18-5,142-96-1,h2o,di-n-butylether,O,water,373.15,7732-18-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+649,649,298.15,0.0,1.0,0.38744208,0.0,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+650,650,298.15,0.1,0.9,0.28848715,0.00428974,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+651,651,298.15,0.2,0.8,0.23103862,0.01405603,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+652,652,298.15,0.3,0.7,0.18670044,0.0284898,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+653,653,298.15,0.4,0.6,0.14898082,0.04850134,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+654,654,298.15,0.5,0.5,0.11422711,0.07669662,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+655,655,298.15,0.6,0.4,0.08097076,0.11718425,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+656,656,298.15,0.7,0.3,0.04976086,0.17508307,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+657,657,298.15,0.8,0.2,0.02322924,0.25455934,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+658,658,298.15,0.9,0.1,0.0056043,0.35358542,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+659,659,298.15,1.0,0.0,0.0,0.45197475,67-56-1,502-42-1,methanol,cycloheptanone,CO,methanol,337.85,67-56-1,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+660,660,298.15,0.0,1.0,2.10891387,0.0,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+661,661,298.15,0.1,0.9,1.48061014,0.0260788,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+662,662,298.15,0.2,0.8,1.20290476,0.07334976,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+663,663,298.15,0.3,0.7,1.02474051,0.13181383,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+664,664,298.15,0.4,0.6,0.88548975,0.20648534,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+665,665,298.15,0.5,0.5,0.75100592,0.3171035,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+666,666,298.15,0.6,0.4,0.5951644,0.50995943,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+667,667,298.15,0.7,0.3,0.40909417,0.86025078,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+668,668,298.15,0.8,0.2,0.22569216,1.41611018,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+669,669,298.15,0.9,0.1,0.0833716,2.24215395,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+670,670,298.15,1.0,0.0,0.0,4.19676993,7732-18-5,502-42-1,h2o,cycloheptanone,O,water,373.15,7732-18-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+671,671,298.15,0.0,1.0,2.0608415,0.0,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+672,672,298.15,0.1,0.9,1.57929829,0.02445579,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+673,673,298.15,0.2,0.8,1.21762827,0.08760494,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+674,674,298.15,0.3,0.7,0.93758783,0.18048034,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+675,675,298.15,0.4,0.6,0.71401388,0.30059447,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+676,676,298.15,0.5,0.5,0.53098598,0.45028888,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+677,677,298.15,0.6,0.4,0.37826323,0.63728802,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+678,678,298.15,0.7,0.3,0.24941727,0.87765919,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+679,679,298.15,0.8,0.2,0.14088974,1.20663679,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+680,680,298.15,0.9,0.1,0.05251334,1.72217933,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+681,681,298.15,1.0,0.0,0.0,3.09351458,108-88-3,67-56-1,toluene,methanol,Cc1ccccc1,toluene,383.75,108-88-3,CO,methanol,337.85,67-56-1
+682,682,298.15,0.0,1.0,0.14972612,0.0,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+683,683,298.15,0.1,0.9,0.10607275,0.00221439,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+684,684,298.15,0.2,0.8,0.07448696,0.00773709,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+685,685,298.15,0.3,0.7,0.0513491,0.01542091,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+686,686,298.15,0.4,0.6,0.03433268,0.02457202,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+687,687,298.15,0.5,0.5,0.02188795,0.03475566,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+688,688,298.15,0.6,0.4,0.0129521,0.04569033,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+689,689,298.15,0.7,0.3,0.00677369,0.05718745,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+690,690,298.15,0.8,0.2,0.00280859,0.06911606,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+691,691,298.15,0.9,0.1,0.0006528,0.08138126,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+692,692,298.15,1.0,0.0,0.0,0.09391089,142-96-1,110-54-3,di-n-butylether,hexane,CCCCOCCCC,dibutyl ether,414.15,142-96-1,CCCCCC,hexane,341.85,110-54-3
+693,693,298.15,0.0,1.0,0.15986353,0.0,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+694,694,298.15,0.1,0.9,0.17110493,-0.0002306,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+695,695,298.15,0.2,0.8,0.1311118,0.00735871,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+696,696,298.15,0.3,0.7,0.06679273,0.02899548,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+697,697,298.15,0.4,0.6,0.01965426,0.0540115,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+698,698,298.15,0.5,0.5,0.00252164,0.06753428,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+699,699,298.15,0.6,0.4,0.00271935,0.0670198,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+700,700,298.15,0.7,0.3,0.0071626,0.05883823,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+701,701,298.15,0.8,0.2,0.00904333,0.05402433,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+702,702,298.15,0.9,0.1,0.00483965,0.08256079,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+703,703,298.15,1.0,0.0,0.0,0.18671444,75-05-8,67-66-3,acetonitrile,chcl3,CC#N,acetonitrile,355.15,75-05-8,ClC(Cl)Cl,chloroform,334.15,67-66-3
+704,704,298.15,0.0,1.0,0.73099487,0.0,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+705,705,298.15,0.1,0.9,0.61641022,0.00603607,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+706,706,298.15,0.2,0.8,0.51020818,0.02481123,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+707,707,298.15,0.3,0.7,0.41243486,0.0574703,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+708,708,298.15,0.4,0.6,0.32295226,0.10578995,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+709,709,298.15,0.5,0.5,0.241701,0.17250918,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+710,710,298.15,0.6,0.4,0.1689218,0.2618331,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+711,711,298.15,0.7,0.3,0.1054396,0.38036857,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+712,712,298.15,0.8,0.2,0.05306323,0.53872179,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+713,713,298.15,0.9,0.1,0.01542701,0.75498351,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+714,714,298.15,1.0,0.0,0.0,1.0629413,110-82-7,97-63-2,cyclohexane,ethylmethacrylate,C1CCCCC1,cyclohexane,353.9,110-82-7,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+715,715,298.15,0.0,1.0,1.03274307,0.0,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+716,716,298.15,0.1,0.9,0.77100701,0.01333255,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+717,717,298.15,0.2,0.8,0.57230472,0.04807663,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+718,718,298.15,0.3,0.7,0.41782901,0.09931044,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+719,719,298.15,0.4,0.6,0.29635894,0.1644937,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+720,720,298.15,0.5,0.5,0.20080801,0.24247891,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+721,721,298.15,0.6,0.4,0.12655781,0.33305516,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+722,722,298.15,0.7,0.3,0.0706592,0.43673715,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+723,723,298.15,0.8,0.2,0.03137601,0.55459024,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+724,724,298.15,0.9,0.1,0.00785769,0.68804112,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+725,725,298.15,1.0,0.0,0.0,0.83846142,97-63-2,110-54-3,ethylmethacrylate,hexane,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2,CCCCCC,hexane,341.85,110-54-3
+726,726,298.15,0.0,1.0,0.65283135,0.0,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+727,727,298.15,0.1,0.9,0.47830315,0.00819977,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+728,728,298.15,0.2,0.8,0.35946297,0.02868742,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+729,729,298.15,0.3,0.7,0.26686821,0.05916356,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+730,730,298.15,0.4,0.6,0.19221775,0.09899201,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+731,731,298.15,0.5,0.5,0.13179506,0.14803054,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+732,732,298.15,0.6,0.4,0.08372583,0.20628669,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+733,733,298.15,0.7,0.3,0.04698769,0.27385711,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+734,734,298.15,0.8,0.2,0.0209839,0.35095086,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+735,735,298.15,0.9,0.1,0.00536507,0.43791641,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+736,736,298.15,1.0,0.0,0.0,0.53527022,64-17-5,67-64-1,ethanol,propanone,CCO,ethanol,351.52,64-17-5,CC(C)=O,acetone,329.15,67-64-1
+737,737,298.15,0.0,1.0,7.4986712,0.0,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+738,738,298.15,0.1,0.9,4.189958,0.1143821,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+739,739,298.15,0.2,0.8,3.10688061,0.30038294,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+740,740,298.15,0.3,0.7,2.37911829,0.54115559,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+741,741,298.15,0.4,0.6,1.81205736,0.84574015,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+742,742,298.15,0.5,0.5,1.34688265,1.22622326,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+743,743,298.15,0.6,0.4,0.95628528,1.7044598,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+744,744,298.15,0.7,0.3,0.62249871,2.32734869,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+745,745,298.15,0.8,0.2,0.33685951,3.19314691,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+746,746,298.15,0.9,0.1,0.10938445,4.51253672,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+747,747,298.15,1.0,0.0,0.0,6.80258604,7732-18-5,67-66-3,h2o,chcl3,O,water,373.15,7732-18-5,ClC(Cl)Cl,chloroform,334.15,67-66-3
+748,748,298.15,0.0,1.0,3.93795845,0.0,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+749,749,298.15,0.1,0.9,2.65983801,0.05996856,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+750,750,298.15,0.2,0.8,1.9148049,0.18900701,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+751,751,298.15,0.3,0.7,1.38706317,0.3635422,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+752,752,298.15,0.4,0.6,0.98930135,0.57676527,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+753,753,298.15,0.5,0.5,0.68311095,0.8265837,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+754,754,298.15,0.6,0.4,0.44630875,1.11565504,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+755,755,298.15,0.7,0.3,0.26253369,1.45741668,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+756,756,298.15,0.8,0.2,0.12375942,1.87534057,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+757,757,298.15,0.9,0.1,0.03415581,2.38774991,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+758,758,298.15,1.0,0.0,0.0,3.06983515,75-05-8,110-82-7,acetonitrile,cyclohexane,CC#N,acetonitrile,355.15,75-05-8,C1CCCCC1,cyclohexane,353.9,110-82-7
+759,759,298.15,0.0,1.0,1.74133861,0.0,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+760,760,298.15,0.1,0.9,1.52209033,0.01390072,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+761,761,298.15,0.2,0.8,1.26109189,0.05996337,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+762,762,298.15,0.3,0.7,1.02258184,0.13948262,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+763,763,298.15,0.4,0.6,0.80657819,0.25590413,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+764,764,298.15,0.5,0.5,0.61132462,0.41598934,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+765,765,298.15,0.6,0.4,0.43552093,0.63155116,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+766,766,298.15,0.7,0.3,0.27945714,0.92271114,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+767,767,298.15,0.8,0.2,0.14631427,1.32506114,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+768,768,298.15,0.9,0.1,0.0451876,1.90714064,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+769,769,298.15,1.0,0.0,0.0,2.82857228,64-17-5,67-71-0,ethanol,dimethylsulfone,CCO,ethanol,351.52,64-17-5,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+770,770,298.15,0.0,1.0,1.74250309,0.0,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+771,771,298.15,0.1,0.9,1.2055867,0.02738183,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+772,772,298.15,0.2,0.8,0.8171874,0.09491536,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+773,773,298.15,0.3,0.7,0.54657052,0.18413315,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+774,774,298.15,0.4,0.6,0.35989453,0.28385451,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+775,775,298.15,0.5,0.5,0.23012412,0.38928915,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+776,776,298.15,0.6,0.4,0.13901815,0.4999311,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+777,777,298.15,0.7,0.3,0.0753785,0.61761961,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+778,778,298.15,0.8,0.2,0.03283849,0.74497189,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+779,779,298.15,0.9,0.1,0.00815728,0.88513129,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+780,780,298.15,1.0,0.0,0.0,1.04198008,67-71-0,67-64-1,dimethylsulfone,propanone,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CC(C)=O,acetone,329.15,67-64-1
+781,781,298.15,0.0,1.0,2.60461636,0.0,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+782,782,298.15,0.1,0.9,1.59181354,0.04978677,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+783,783,298.15,0.2,0.8,1.08376565,0.13698691,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+784,784,298.15,0.3,0.7,0.75917539,0.24405288,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+785,785,298.15,0.4,0.6,0.52683787,0.36849955,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+786,786,298.15,0.5,0.5,0.35288547,0.51041962,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+787,787,298.15,0.6,0.4,0.22118181,0.6711534,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+788,788,298.15,0.7,0.3,0.1233209,0.85280452,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+789,789,298.15,0.8,0.2,0.05487603,1.05819763,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+790,790,298.15,0.9,0.1,0.01385084,1.29095175,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+791,791,298.15,1.0,0.0,0.0,1.55585255,67-56-1,75-29-6,methanol,2-chloropropane,CO,methanol,337.85,67-56-1,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+792,792,298.15,0.0,1.0,1.17059674,0.0,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+793,793,298.15,0.1,0.9,0.99385331,0.00931807,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+794,794,298.15,0.2,0.8,0.8335717,0.03764072,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+795,795,298.15,0.3,0.7,0.68764096,0.08638297,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+796,796,298.15,0.4,0.6,0.55446543,0.15830702,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+797,797,298.15,0.5,0.5,0.43300192,0.25805612,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+798,798,298.15,0.6,0.4,0.32231908,0.39399141,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+799,799,298.15,0.7,0.3,0.22197101,0.58171636,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+800,800,298.15,0.8,0.2,0.13183821,0.85574269,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+801,801,298.15,0.9,0.1,0.05304606,1.31808371,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+802,802,298.15,1.0,0.0,0.0,2.78265486,71-43-2,64-17-5,benzene,ethanol,c1ccccc1,benzene,353.15,71-43-2,CCO,ethanol,351.52,64-17-5
+803,803,298.15,0.0,1.0,2.38429121,0.0,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+804,804,298.15,0.1,0.9,1.81451527,0.02890513,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+805,805,298.15,0.2,0.8,1.38648401,0.10369196,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+806,806,298.15,0.3,0.7,1.05314985,0.21424443,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+807,807,298.15,0.4,0.6,0.78769776,0.35679956,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+808,808,298.15,0.5,0.5,0.57231628,0.53286817,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+809,809,298.15,0.6,0.4,0.39354818,0.75177208,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+810,810,298.15,0.7,0.3,0.24159832,1.0353276,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+811,811,298.15,0.8,0.2,0.11666513,1.41280257,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+812,812,298.15,0.9,0.1,0.03121107,1.90175154,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+813,813,298.15,1.0,0.0,0.0,2.51123004,67-64-1,110-54-3,propanone,hexane,CC(C)=O,acetone,329.15,67-64-1,CCCCCC,hexane,341.85,110-54-3
+814,814,298.15,0.0,1.0,-0.04093603,0.0,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+815,815,298.15,0.1,0.9,-0.03970475,-2.393e-05,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+816,816,298.15,0.2,0.8,-0.03774998,-0.00032371,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+817,817,298.15,0.3,0.7,-0.03497989,-0.00119393,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+818,818,298.15,0.4,0.6,-0.03132923,-0.00310903,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+819,819,298.15,0.5,0.5,-0.02676204,-0.00680136,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+820,820,298.15,0.6,0.4,-0.02131639,-0.01341269,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+821,821,298.15,0.7,0.3,-0.01515408,-0.02486846,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+822,822,298.15,0.8,0.2,-0.00868442,-0.04442604,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+823,823,298.15,0.9,0.1,-0.0028791,-0.07793265,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+824,824,298.15,1.0,0.0,0.0,-0.13673603,108-88-3,97-63-2,toluene,ethylmethacrylate,Cc1ccccc1,toluene,383.75,108-88-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+825,825,298.15,0.0,1.0,1.91359048,0.0,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+826,826,298.15,0.1,0.9,1.24747552,0.03358838,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+827,827,298.15,0.2,0.8,0.80633138,0.10974361,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+828,828,298.15,0.3,0.7,0.5539656,0.19238817,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+829,829,298.15,0.4,0.6,0.43445686,0.25498383,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+830,830,298.15,0.5,0.5,0.40690354,0.27579949,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+831,831,298.15,0.6,0.4,0.4293947,0.24615613,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+832,832,298.15,0.7,0.3,0.46392585,0.18220902,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+833,833,298.15,0.8,0.2,0.39076483,0.43286522,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+834,834,298.15,0.9,0.1,0.11449504,2.09071326,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+835,835,298.15,1.0,0.0,0.0,4.15412771,67-66-3,67-71-0,chcl3,dimethylsulfone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+836,836,298.15,0.0,1.0,3.84195093,0.0,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+837,837,298.15,0.1,0.9,2.71849683,0.05386841,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+838,838,298.15,0.2,0.8,2.01101272,0.17682211,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+839,839,298.15,0.3,0.7,1.4876893,0.35019044,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+840,840,298.15,0.4,0.6,1.07980518,0.56909607,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+841,841,298.15,0.5,0.5,0.75685741,0.83282401,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+842,842,298.15,0.6,0.4,0.50157039,1.1446516,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+843,843,298.15,0.7,0.3,0.30065172,1.51848278,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+844,844,298.15,0.8,0.2,0.14503202,1.98797412,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+845,845,298.15,0.9,0.1,0.04063897,2.58580543,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+846,846,298.15,1.0,0.0,0.0,3.40322847,75-05-8,110-54-3,acetonitrile,hexane,CC#N,acetonitrile,355.15,75-05-8,CCCCCC,hexane,341.85,110-54-3
+847,847,298.15,0.0,1.0,-0.33544022,0.0,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+848,848,298.15,0.1,0.9,-0.3683035,0.00082429,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+849,849,298.15,0.2,0.8,-0.34933851,-0.00329065,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+850,850,298.15,0.3,0.7,-0.30065873,-0.02029992,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+851,851,298.15,0.4,0.6,-0.23012743,-0.0593231,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+852,852,298.15,0.5,0.5,-0.14807321,-0.12768781,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+853,853,298.15,0.6,0.4,-0.08398061,-0.20623907,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+854,854,298.15,0.7,0.3,-0.06760442,-0.23579215,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+855,855,298.15,0.8,0.2,-0.04943662,-0.29631565,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+856,856,298.15,0.9,0.1,-0.01466487,-0.50025283,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+857,857,298.15,1.0,0.0,0.0,-0.77182744,67-66-3,67-64-1,chcl3,propanone,ClC(Cl)Cl,chloroform,334.15,67-66-3,CC(C)=O,acetone,329.15,67-64-1
+858,858,298.15,0.0,1.0,0.53974043,0.0,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+859,859,298.15,0.1,0.9,0.45536886,0.00459916,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+860,860,298.15,0.2,0.8,0.37042003,0.01970233,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+861,861,298.15,0.3,0.7,0.29063096,0.04638881,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+862,862,298.15,0.4,0.6,0.21866024,0.08523755,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+863,863,298.15,0.5,0.5,0.15575245,0.13683211,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+864,864,298.15,0.6,0.4,0.10259226,0.20202119,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+865,865,298.15,0.7,0.3,0.0596579,0.28216167,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+866,866,298.15,0.8,0.2,0.02751921,0.37934524,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+867,867,298.15,0.9,0.1,0.00711511,0.49673532,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+868,868,298.15,1.0,0.0,0.0,0.63884504,502-42-1,142-96-1,cycloheptanone,di-n-butylether,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+869,869,298.15,0.0,1.0,8.49757789,0.0,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+870,870,298.15,0.1,0.9,5.07135659,0.13827478,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+871,871,298.15,0.2,0.8,3.63343017,0.38577715,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+872,872,298.15,0.3,0.7,2.68011412,0.70054396,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+873,873,298.15,0.4,0.6,1.98142977,1.07504017,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+874,874,298.15,0.5,0.5,1.43709742,1.51987564,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+875,875,298.15,0.6,0.4,0.98945694,2.06765271,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+876,876,298.15,0.7,0.3,0.62287128,2.75002409,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+877,877,298.15,0.8,0.2,0.33163443,3.6301216,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+878,878,298.15,0.9,0.1,0.10768591,4.92869445,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+879,879,298.15,1.0,0.0,0.0,7.16949871,67-71-0,110-54-3,dimethylsulfone,hexane,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,CCCCCC,hexane,341.85,110-54-3
+880,880,298.15,0.0,1.0,6.19873497,0.0,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+881,881,298.15,0.1,0.9,4.44639455,0.08564577,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+882,882,298.15,0.2,0.8,3.35447717,0.27449648,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+883,883,298.15,0.3,0.7,2.59216019,0.52683697,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+884,884,298.15,0.4,0.6,1.9888861,0.85134662,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+885,885,298.15,0.5,0.5,1.48564122,1.26323764,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+886,886,298.15,0.6,0.4,1.06576268,1.77736024,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+887,887,298.15,0.7,0.3,0.70678803,2.44762557,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+888,888,298.15,0.8,0.2,0.39758471,3.38534702,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+889,889,298.15,0.9,0.1,0.14666183,4.84673465,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+890,890,298.15,1.0,0.0,0.0,8.58328603,110-82-7,67-71-0,cyclohexane,dimethylsulfone,C1CCCCC1,cyclohexane,353.9,110-82-7,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+891,891,298.15,0.0,1.0,1.08423987,0.0,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+892,892,298.15,0.1,0.9,0.88984168,0.00959914,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+893,893,298.15,0.2,0.8,0.75322036,0.03324897,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+894,894,298.15,0.3,0.7,0.64348448,0.06971929,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+895,895,298.15,0.4,0.6,0.54074715,0.12532074,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+896,896,298.15,0.5,0.5,0.43637364,0.21130913,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+897,897,298.15,0.6,0.4,0.33174336,0.34011526,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+898,898,298.15,0.7,0.3,0.23102506,0.5289112,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+899,899,298.15,0.8,0.2,0.13742899,0.81404429,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+900,900,298.15,0.9,0.1,0.05421497,1.30303806,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+901,901,298.15,1.0,0.0,0.0,2.78401025,67-66-3,67-56-1,chcl3,methanol,ClC(Cl)Cl,chloroform,334.15,67-66-3,CO,methanol,337.85,67-56-1
+902,902,298.15,0.0,1.0,1.55731734,0.0,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+903,903,298.15,0.1,0.9,1.12543911,0.0210496,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+904,904,298.15,0.2,0.8,0.86235959,0.06809518,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+905,905,298.15,0.3,0.7,0.6728653,0.1333609,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+906,906,298.15,0.4,0.6,0.52118873,0.21806696,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+907,907,298.15,0.5,0.5,0.3913938,0.32785069,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+908,908,298.15,0.6,0.4,0.27673153,0.47196006,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+909,909,298.15,0.7,0.3,0.17546468,0.66442584,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+910,910,298.15,0.8,0.2,0.0897039,0.92699278,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+911,911,298.15,0.9,0.1,0.02629176,1.29457011,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+912,912,298.15,1.0,0.0,0.0,1.82335797,64-17-5,142-96-1,ethanol,di-n-butylether,CCO,ethanol,351.52,64-17-5,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+913,913,298.15,0.0,1.0,0.54024312,0.0,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+914,914,298.15,0.1,0.9,0.39346566,0.00676633,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+915,915,298.15,0.2,0.8,0.29978413,0.02286042,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+916,916,298.15,0.3,0.7,0.22767209,0.04653605,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+917,917,298.15,0.4,0.6,0.16898028,0.07781989,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+918,918,298.15,0.5,0.5,0.11990181,0.1176772,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+919,919,298.15,0.6,0.4,0.078873,0.16752867,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+920,920,298.15,0.7,0.3,0.0456136,0.22897507,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+921,921,298.15,0.8,0.2,0.0206905,0.30332184,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+922,922,298.15,0.9,0.1,0.00519137,0.39034424,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+923,923,298.15,1.0,0.0,0.0,0.48535321,64-17-5,502-42-1,ethanol,cycloheptanone,CCO,ethanol,351.52,64-17-5,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+924,924,298.15,0.0,1.0,2.22897547,0.0,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+925,925,298.15,0.1,0.9,1.74131951,0.02509068,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+926,926,298.15,0.2,0.8,1.33439179,0.09641761,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+927,927,298.15,0.3,0.7,1.00360822,0.20616543,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+928,928,298.15,0.4,0.6,0.74329465,0.34585372,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+929,929,298.15,0.5,0.5,0.53751175,0.51402764,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+930,930,298.15,0.6,0.4,0.36877063,0.72061752,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+931,931,298.15,0.7,0.3,0.22814495,0.98286125,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+932,932,298.15,0.8,0.2,0.11457054,1.32609237,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+933,933,298.15,0.9,0.1,0.03347319,1.79231789,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+934,934,298.15,1.0,0.0,0.0,2.46352692,110-82-7,67-64-1,cyclohexane,propanone,C1CCCCC1,cyclohexane,353.9,110-82-7,CC(C)=O,acetone,329.15,67-64-1
+935,935,298.15,0.0,1.0,1.59841343,0.0,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+936,936,298.15,0.1,0.9,1.2186847,0.01970251,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+937,937,298.15,0.2,0.8,0.91892947,0.0719574,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+938,938,298.15,0.3,0.7,0.68446075,0.14971041,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+939,939,298.15,0.4,0.6,0.49574681,0.25112252,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+940,940,298.15,0.5,0.5,0.34201002,0.37683965,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+941,941,298.15,0.6,0.4,0.2183529,0.5279955,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+942,942,298.15,0.7,0.3,0.12263833,0.70583821,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+943,943,298.15,0.8,0.2,0.05421605,0.91124669,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+944,944,298.15,0.9,0.1,0.01333849,1.14291584,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+945,945,298.15,1.0,0.0,0.0,1.39591298,108-88-3,75-05-8,toluene,acetonitrile,Cc1ccccc1,toluene,383.75,108-88-3,CC#N,acetonitrile,355.15,75-05-8
+946,946,298.15,0.0,1.0,-0.19815077,0.0,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+947,947,298.15,0.1,0.9,-0.17004565,-0.00160358,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+948,948,298.15,0.2,0.8,-0.14255542,-0.00659109,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+949,949,298.15,0.3,0.7,-0.1159862,-0.01560543,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+950,950,298.15,0.4,0.6,-0.0907147,-0.02939825,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+951,951,298.15,0.5,0.5,-0.06718342,-0.04887702,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+952,952,298.15,0.6,0.4,-0.04594246,-0.07511545,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+953,953,298.15,0.7,0.3,-0.02766654,-0.10942009,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+954,954,298.15,0.8,0.2,-0.0131965,-0.15333979,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+955,955,298.15,0.9,0.1,-0.00354495,-0.20877539,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+956,956,298.15,1.0,0.0,0.0,-0.27809957,75-29-6,502-42-1,2-chloropropane,cycloheptanone,CC(C)Cl,isopropyl chloride,308.89,75-29-6,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+957,957,298.15,0.0,1.0,1.23178652,0.0,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+958,958,298.15,0.1,0.9,0.98897843,0.01299394,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+959,959,298.15,0.2,0.8,0.7809062,0.04992079,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+960,960,298.15,0.3,0.7,0.60308628,0.10941155,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+961,961,298.15,0.4,0.6,0.45203241,0.19100167,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+962,962,298.15,0.5,0.5,0.32483328,0.29538117,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+963,963,298.15,0.6,0.4,0.21908177,0.4250855,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+964,964,298.15,0.7,0.3,0.13300072,0.58575596,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+965,965,298.15,0.8,0.2,0.06581419,0.78881799,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+966,966,298.15,0.9,0.1,0.01892707,1.05799503,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+967,967,298.15,1.0,0.0,0.0,1.39611881,75-05-8,64-17-5,acetonitrile,ethanol,CC#N,acetonitrile,355.15,75-05-8,CCO,ethanol,351.52,64-17-5
+968,968,298.15,0.0,1.0,0.17009903,0.0,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+969,969,298.15,0.1,0.9,0.15760868,0.00076681,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+970,970,298.15,0.2,0.8,0.14209685,0.00360181,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+971,971,298.15,0.3,0.7,0.12397258,0.00973052,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+972,972,298.15,0.4,0.6,0.10374916,0.02070236,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+973,973,298.15,0.5,0.5,0.08210257,0.03850164,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+974,974,298.15,0.6,0.4,0.0599476,0.06569871,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+975,975,298.15,0.7,0.3,0.03854126,0.10565411,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+976,976,298.15,0.8,0.2,0.01962642,0.16280555,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+977,977,298.15,0.9,0.1,0.00563713,0.24307661,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+978,978,298.15,1.0,0.0,0.0,0.35448397,75-29-6,142-96-1,2-chloropropane,di-n-butylether,CC(C)Cl,isopropyl chloride,308.89,75-29-6,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+979,979,298.15,0.0,1.0,6.07662935,0.0,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+980,980,298.15,0.1,0.9,3.95204606,0.0966444,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+981,981,298.15,0.2,0.8,2.96270725,0.26702649,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+982,982,298.15,0.3,0.7,2.28820572,0.49026256,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+983,983,298.15,0.4,0.6,1.76205977,0.77301534,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+984,984,298.15,0.5,0.5,1.32415781,1.13154831,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+985,985,298.15,0.6,0.4,0.94681623,1.59406987,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+986,986,298.15,0.7,0.3,0.61709169,2.20986777,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+987,987,298.15,0.8,0.2,0.33275309,3.07186629,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+988,988,298.15,0.9,0.1,0.10751508,4.37773144,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+989,989,298.15,1.0,0.0,0.0,6.61898949,7732-18-5,75-29-6,h2o,2-chloropropane,O,water,373.15,7732-18-5,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+990,990,298.15,0.0,1.0,-0.19861369,0.0,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+991,991,298.15,0.1,0.9,-0.17174461,-0.00160111,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+992,992,298.15,0.2,0.8,-0.14679053,-0.00620139,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+993,993,298.15,0.3,0.7,-0.12366521,-0.01410817,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+994,994,298.15,0.4,0.6,-0.10224189,-0.02584137,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+995,995,298.15,0.5,0.5,-0.08231151,-0.04235955,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+996,996,298.15,0.6,0.4,-0.06355234,-0.06554468,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+997,997,298.15,0.7,0.3,-0.0455278,-0.09944758,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+998,998,298.15,0.8,0.2,-0.02780051,-0.15367105,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+999,999,298.15,0.9,0.1,-0.01067653,-0.254536,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+1000,1000,298.15,1.0,0.0,0.0,-0.49351876,108-88-3,502-42-1,toluene,cycloheptanone,Cc1ccccc1,toluene,383.75,108-88-3,O=C1CCCCCC1,cycloheptanone,452.15,502-42-1
+1001,1001,298.15,0.0,1.0,-0.06897977,0.0,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1002,1002,298.15,0.1,0.9,-0.05889118,-0.00047428,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1003,1003,298.15,0.2,0.8,-0.04908201,-0.00215314,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1004,1004,298.15,0.3,0.7,-0.03964464,-0.00525274,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1005,1005,298.15,0.4,0.6,-0.0307064,-0.01002676,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1006,1006,298.15,0.5,0.5,-0.0224361,-0.01676198,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1007,1007,298.15,0.6,0.4,-0.01505144,-0.02576495,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1008,1008,298.15,0.7,0.3,-0.00881907,-0.03732259,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1009,1009,298.15,0.8,0.2,-0.00404379,-0.05162309,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1010,1010,298.15,0.9,0.1,-0.00103252,-0.06859679,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1011,1011,298.15,1.0,0.0,0.0,-0.0875918,108-88-3,142-96-1,toluene,di-n-butylether,Cc1ccccc1,toluene,383.75,108-88-3,CCCCOCCCC,dibutyl ether,414.15,142-96-1
+1012,1012,298.15,0.0,1.0,0.00313893,0.0,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1013,1013,298.15,0.1,0.9,0.00265554,2.575e-05,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1014,1014,298.15,0.2,0.8,0.00219228,0.00010787,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1015,1015,298.15,0.3,0.7,0.0017544,0.00025428,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1016,1016,298.15,0.4,0.6,0.00134781,0.00047377,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1017,1017,298.15,0.5,0.5,0.00097914,0.00077612,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1018,1018,298.15,0.6,0.4,0.00065584,0.0011722,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1019,1019,298.15,0.7,0.3,0.00038628,0.00167412,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1020,1020,298.15,0.8,0.2,0.00017985,0.00229537,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1021,1021,298.15,0.9,0.1,4.713e-05,0.00305098,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1022,1022,298.15,1.0,0.0,0.0,0.00395774,110-82-7,110-54-3,cyclohexane,hexane,C1CCCCC1,cyclohexane,353.9,110-82-7,CCCCCC,hexane,341.85,110-54-3
+1023,1023,298.15,0.0,1.0,0.72387294,0.0,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1024,1024,298.15,0.1,0.9,0.53541379,0.00966177,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1025,1025,298.15,0.2,0.8,0.38361431,0.03617107,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1026,1026,298.15,0.3,0.7,0.26663405,0.07491475,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1027,1027,298.15,0.4,0.6,0.17855181,0.12214536,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1028,1028,298.15,0.5,0.5,0.11323824,0.1754275,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1029,1029,298.15,0.6,0.4,0.06581663,0.23326797,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1030,1030,298.15,0.7,0.3,0.03287253,0.29431115,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1031,1031,298.15,0.8,0.2,0.01219815,0.35610738,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1032,1032,298.15,0.9,0.1,0.00212767,0.4123599,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1033,1033,298.15,1.0,0.0,0.0,0.44681913,108-88-3,67-64-1,toluene,propanone,Cc1ccccc1,toluene,383.75,108-88-3,CC(C)=O,acetone,329.15,67-64-1
+1034,1034,298.15,0.0,1.0,0.33559546,0.0,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1035,1035,298.15,0.1,0.9,0.26861532,0.00350102,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1036,1036,298.15,0.2,0.8,0.21098204,0.01365192,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1037,1037,298.15,0.3,0.7,0.1615969,0.03009966,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1038,1038,298.15,0.4,0.6,0.11957925,0.05271821,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1039,1039,298.15,0.5,0.5,0.08425024,0.08162917,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1040,1040,298.15,0.6,0.4,0.05513073,0.11724309,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1041,1041,298.15,0.7,0.3,0.03196474,0.16031975,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1042,1042,298.15,0.8,0.2,0.01476286,0.21203937,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1043,1043,298.15,0.9,0.1,0.00386466,0.27404814,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1044,1044,298.15,1.0,0.0,0.0,0.34839228,67-66-3,110-82-7,chcl3,cyclohexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,C1CCCCC1,cyclohexane,353.9,110-82-7
+1045,1045,298.15,0.0,1.0,0.76173023,0.0,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1046,1046,298.15,0.1,0.9,0.52436477,0.01155346,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1047,1047,298.15,0.2,0.8,0.37228714,0.03797431,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1048,1048,298.15,0.3,0.7,0.26363783,0.0739566,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1049,1049,298.15,0.4,0.6,0.18320396,0.11711148,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1050,1050,298.15,0.5,0.5,0.12305129,0.16618408,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1051,1051,298.15,0.6,0.4,0.07817267,0.2209748,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1052,1052,298.15,0.7,0.3,0.04499827,0.2827237,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1053,1053,298.15,0.8,0.2,0.02112859,0.35488524,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1054,1054,298.15,0.9,0.1,0.00571334,0.44323342,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1055,1055,298.15,1.0,0.0,0.0,0.55189131,75-05-8,75-29-6,acetonitrile,2-chloropropane,CC#N,acetonitrile,355.15,75-05-8,CC(C)Cl,isopropyl chloride,308.89,75-29-6
+1056,1056,298.15,0.0,1.0,0.3579413,0.0,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1057,1057,298.15,0.1,0.9,0.29750331,0.00319979,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1058,1058,298.15,0.2,0.8,0.24151877,0.01310301,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1059,1059,298.15,0.3,0.7,0.19025496,0.03022117,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1060,1060,298.15,0.4,0.6,0.14403117,0.05515058,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1061,1061,298.15,0.5,0.5,0.1032282,0.08858847,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1062,1062,298.15,0.6,0.4,0.06830026,0.13135361,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1063,1063,298.15,0.7,0.3,0.03979033,0.1844128,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1064,1064,298.15,0.8,0.2,0.01835015,0.24891582,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1065,1065,298.15,0.9,0.1,0.00476697,0.32624267,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1066,1066,298.15,1.0,0.0,0.0,0.41806887,71-43-2,110-54-3,benzene,hexane,c1ccccc1,benzene,353.15,71-43-2,CCCCCC,hexane,341.85,110-54-3
+1067,1067,298.15,0.0,1.0,-0.87753346,0.0,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1068,1068,298.15,0.1,0.9,-0.79591469,-0.00446807,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1069,1069,298.15,0.2,0.8,-0.69454763,-0.02257794,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1070,1070,298.15,0.3,0.7,-0.57511637,-0.06276137,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1071,1071,298.15,0.4,0.6,-0.44054753,-0.13573425,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1072,1072,298.15,0.5,0.5,-0.30231289,-0.24922347,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1073,1073,298.15,0.6,0.4,-0.1866595,-0.38987071,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1074,1074,298.15,0.7,0.3,-0.11404122,-0.52345384,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1075,1075,298.15,0.8,0.2,-0.06047236,-0.68580165,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1076,1076,298.15,0.9,0.1,-0.01696769,-0.93503543,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1077,1077,298.15,1.0,0.0,0.0,-1.25804352,67-66-3,97-63-2,chcl3,ethylmethacrylate,ClC(Cl)Cl,chloroform,334.15,67-66-3,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1078,1078,298.15,0.0,1.0,3.76873623,0.0,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1079,1079,298.15,0.1,0.9,2.77193233,0.05028912,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1080,1080,298.15,0.2,0.8,2.0507415,0.17601324,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1081,1081,298.15,0.3,0.7,1.51658621,0.35305162,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1082,1082,298.15,0.4,0.6,1.11144534,0.57062227,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1083,1083,298.15,0.5,0.5,0.79513974,0.82925509,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1084,1084,298.15,0.6,0.4,0.53850577,1.14343012,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1085,1085,298.15,0.7,0.3,0.32769893,1.53628028,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1086,1086,298.15,0.8,0.2,0.16149816,2.03774809,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1087,1087,298.15,0.9,0.1,0.047311,2.69216803,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1088,1088,298.15,1.0,0.0,0.0,3.74348762,108-88-3,67-71-0,toluene,dimethylsulfone,Cc1ccccc1,toluene,383.75,108-88-3,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0
+1089,1089,298.15,0.0,1.0,0.71345238,0.0,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1090,1090,298.15,0.1,0.9,0.61272812,0.0050764,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1091,1091,298.15,0.2,0.8,0.52664663,0.02005869,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1092,1092,298.15,0.3,0.7,0.4454603,0.04701925,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1093,1093,298.15,0.4,0.6,0.36617024,0.08967949,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1094,1094,298.15,0.5,0.5,0.2904449,0.15173815,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1095,1095,298.15,0.6,0.4,0.21936573,0.23910589,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1096,1096,298.15,0.7,0.3,0.15161346,0.36632058,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1097,1097,298.15,0.8,0.2,0.08643487,0.56537315,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1098,1098,298.15,0.9,0.1,0.02892599,0.90139297,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1099,1099,298.15,1.0,0.0,0.0,1.50374915,7732-18-5,64-17-5,h2o,ethanol,O,water,373.15,7732-18-5,CCO,ethanol,351.52,64-17-5
+1100,1100,298.15,0.0,1.0,1.20305717,0.0,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1101,1101,298.15,0.1,0.9,0.88863522,0.01468745,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1102,1102,298.15,0.2,0.8,0.67972521,0.05118921,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1103,1103,298.15,0.3,0.7,0.51510589,0.10585644,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1104,1104,298.15,0.4,0.6,0.38066176,0.17813126,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1105,1105,298.15,0.5,0.5,0.26944792,0.26907594,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1106,1106,298.15,0.6,0.4,0.17787503,0.38102617,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1107,1107,298.15,0.7,0.3,0.10438088,0.51765815,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1108,1108,298.15,0.8,0.2,0.04895121,0.68431524,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1109,1109,298.15,0.9,0.1,0.01307247,0.88858408,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1110,1110,298.15,1.0,0.0,0.0,1.14112563,64-17-5,97-63-2,ethanol,ethylmethacrylate,CCO,ethanol,351.52,64-17-5,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1111,1111,298.15,0.0,1.0,0.37576595,0.0,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1112,1112,298.15,0.1,0.9,0.30381893,0.00378164,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1113,1113,298.15,0.2,0.8,0.23988999,0.01505975,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1114,1114,298.15,0.3,0.7,0.18374068,0.03377491,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1115,1115,298.15,0.4,0.6,0.1351921,0.05991819,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1116,1116,298.15,0.5,0.5,0.09411967,0.09352917,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1117,1117,298.15,0.6,0.4,0.06044949,0.13469484,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1118,1118,298.15,0.7,0.3,0.03415613,0.18355032,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1119,1119,298.15,0.8,0.2,0.01526161,0.24028096,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1120,1120,298.15,0.9,0.1,0.00383605,0.30512658,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1121,1121,298.15,1.0,0.0,0.0,0.37838815,71-43-2,110-82-7,benzene,cyclohexane,c1ccccc1,benzene,353.15,71-43-2,C1CCCCC1,cyclohexane,353.9,110-82-7
+1122,1122,298.15,0.0,1.0,0.32513417,0.0,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1123,1123,298.15,0.1,0.9,0.26897753,0.00296197,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1124,1124,298.15,0.2,0.8,0.21800655,0.01196732,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1125,1125,298.15,0.3,0.7,0.1720864,0.02729077,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1126,1126,298.15,0.4,0.6,0.13112625,0.04937265,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1127,1127,298.15,0.5,0.5,0.09509967,0.07889249,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1128,1128,298.15,0.6,0.4,0.06407927,0.11687935,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1129,1129,298.15,0.7,0.3,0.03830185,0.16488039,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1130,1130,298.15,0.8,0.2,0.01827678,0.22520278,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1131,1131,298.15,0.9,0.1,0.00495997,0.30122575,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1132,1132,298.15,1.0,0.0,0.0,0.39767727,67-66-3,110-54-3,chcl3,hexane,ClC(Cl)Cl,chloroform,334.15,67-66-3,CCCCCC,hexane,341.85,110-54-3
+1133,1133,298.15,0.0,1.0,3.00096147,0.0,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1134,1134,298.15,0.1,0.9,2.334969,0.03386296,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1135,1135,298.15,0.2,0.8,1.82606975,0.12277067,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1136,1136,298.15,0.3,0.7,1.42282165,0.25656248,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1137,1137,298.15,0.4,0.6,1.09246098,0.4341498,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1138,1138,298.15,0.5,0.5,0.81387747,0.66222308,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1139,1139,298.15,0.6,0.4,0.57300362,0.9574457,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1140,1140,298.15,0.7,0.3,0.3623735,1.35066115,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1141,1141,298.15,0.8,0.2,0.18402009,1.89017797,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1142,1142,298.15,0.9,0.1,0.05336174,2.64158408,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1143,1143,298.15,1.0,0.0,0.0,3.70788255,67-71-0,97-63-2,dimethylsulfone,ethylmethacrylate,CS(C)(=O)=O,dimethyl sulfone,511.15,67-71-0,C=C(C)C(=O)OC,ethyl methacrylate,390.15,97-63-2
+1144,1144,298.15,0.0,1.0,-0.13545341,0.0,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1145,1145,298.15,0.1,0.9,-0.10906792,-0.00138406,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1146,1146,298.15,0.2,0.8,-0.08565699,-0.00551117,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1147,1147,298.15,0.3,0.7,-0.06518085,-0.01233274,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1148,1148,298.15,0.4,0.6,-0.04759787,-0.02179826,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1149,1149,298.15,0.5,0.5,-0.03285781,-0.03385738,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1150,1150,298.15,0.6,0.4,-0.02090961,-0.04846229,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1151,1151,298.15,0.7,0.3,-0.01169943,-0.065572,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1152,1152,298.15,0.8,0.2,-0.00517403,-0.08515932,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1153,1153,298.15,0.9,0.1,-0.00128613,-0.10721762,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
+1154,1154,298.15,1.0,0.0,0.0,-0.13177124,71-43-2,67-66-3,benzene,chcl3,c1ccccc1,benzene,353.15,71-43-2,ClC(Cl)Cl,chloroform,334.15,67-66-3
