@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository corresponds to one of the solubility models of the ongoing study of Kevin Vergara, Dr. Pedro Saa and Dr. Nicolás Gajardo. The present model is based on the architecture of Qin et al., (2023), Rittig & Mitsos, (2024), and Abranches et al., (2024). The proposed architecture is the following:
+This repository corresponds to one of the solubility models of the ongoing study of Kevin Vergara, Dr. Pedro Saa and Dr. Nicolás Gajardo. The present model is based on the architecture of Qin et al., (2023), Rittig & Mitsos, (2024), and Abranches et al., (2024). The proposed architecture is the following (This image does **not** show the optimized parameters):
 
-
+![Rittig_Abranches](doc/Rittig-Abranches.png)
 
 ## Datasets
 This part of the study uses five main datasets, obtained from Ali et al., 2024 (https://github.com/ComPlat/water-solubility-prediction). All dataset files are found in `data/solubility_water/`:
@@ -40,7 +40,25 @@ Further processing was done, which was not done in the Ali et al. (2024) study. 
 ## Model training
 The model architecture is found in `model/model_GNN_water.py` (the proposed architecture is under the class `Rittig_and_Abranches`). The 5-fold cross-validation training and evaluation was done in `train_water_solubility.py`, and the retraining of the model through the whole training dataset was done in `retrain_water_solubility_whole_dataset.py`. The model testing was done in the notebook `test_models.ipynb`.
 
-## Repository architecture
+### Architecture purely based on Rittig & Mitsos (2024) version:
+![Pure_Rittig](doc/Pure_Rittig.png)
 
+### Architecture purely based on Abranches et al. (2024) version:
+![Pure_Abranchs](doc/Pure_Abranches.png)
+
+### Architecture based on a combination of both Rittig and Abranches:
+![Rittig_Abranches](doc/Rittig-Abranches.png)
+
+### A simplified version of the Rittig-Abranches proposed model:
+![Rittig_Abranches_variant](doc/Rittig-Abranches_variant.png)
+
+## Hyperparameter optimization
+The hyperparameter optimization was done with Optuna library and through the CENIA cluster, the files are:
+- **BO_RittigPure.py**
+- **BO_Rittig_Abranches.py**
+- **BO_Rittig_Abranches_variant.py**
+
+The Abranches_Pure version of the model was not optimized since it showed significantly bad evaluation results. The optimization results are as presented:
+![Hyperparameters_results](doc/Hyperparameter_results.png)
 
 
