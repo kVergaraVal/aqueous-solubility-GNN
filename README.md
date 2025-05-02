@@ -43,7 +43,7 @@ The model architecture is found in `model/model_GNN_water.py` (the proposed arch
 ### Architecture purely based on Rittig & Mitsos (2024) version:
 ![Pure_Rittig](doc/Pure_Rittig.png)
 
-### Architecture purely based on Abranches et al. (2024) version:
+### Architecture purely based on Abranches et al. (2023) version:
 ![Pure_Abranchs](doc/Pure_Abranches.png)
 
 ### Architecture based on a combination of both Rittig and Abranches:
@@ -62,11 +62,11 @@ The Abranches_Pure version of the model was not optimized since it showed signif
 ![Hyperparameters_results](doc/Hyperparameter_results.png)
 
 ## Repository structure
-- `SigmaProfileModel`:  Obtained from the Abranches et. al (2023) study [repository](https://github.com/MaginnGroup/GSP). This module generates a Sigma Profile from a given SMILES.
+- `SigmaProfileModel/`:  Obtained from the Abranches et. al (2023) study [repository](https://github.com/MaginnGroup/GSP). This module generates a Sigma Profile from a given SMILES.
   
-- `data`: contains mainly the datasets used in the aqueous solubility module of the study.
-  - `data/Rittig`: contains dataset originally used in the Rittig & Mitsos (2024) study, which was focused on activity coeficient prediction and not solubility prediction.
-  - `data/solubility_water`: contains all the datasets and their processed version as stated in the "Dataset" segment of this README. Here, it is important to consider that the **final** files are:
+- `data/`: contains mainly the datasets used in the aqueous solubility module of the study.
+  - `data/Rittig/`: contains dataset originally used in the Rittig & Mitsos (2024) study, which was focused on activity coefficient prediction and not solubility prediction.
+  - `data/solubility_water/`: contains all the datasets and their processed version as stated in the "Dataset" segment of this README. Here, it is important to consider that the **final** files are:
     - **solute_list_with_polarity_and_size.csv**
     - **solvent_list_water_with_polarity_and_size.csv**
     - **COMPATIBLE_unique_train_water_with_hybrid_classes.csv**
@@ -75,30 +75,51 @@ The Abranches_Pure version of the model was not optimized since it showed signif
 Additionally, in the `data/solubility_water` folder, there are 2 files not previously referenced:
   - **MORGAN_train_water_with_hybrid_classes.csv**: training dataset with Morgan fingerprint features (a Morgan fingerprint is a binary vector of variable length that gives information about structure and functional groups of the molecule).
   - **MACCS_train_water_with_hybrid_classes.csv**: training dataset with MACCS fingerprint features (a MACCS fingerprint is a binary vector of a fixed length that gives information about functional groups of the molecule).
-These were made in a failed attempt of increasing model performance and/or replacing the MLP by an XGB machine.
+These were made to create one of the benchmarks used to assess model performance.
  
-- `doc`: images used in this README.
+- `doc/`: images used in this README.
 
-- `model`: contains the model classes used
-  - `model_GNN.py`: contains model classes used for the activity coeficient module (not relevant for the present module).
+- `model/`: contains the model classes used
+  - `model_GNN.py`: contains model classes used for the activity coefficient module (not relevant for the present module).
   - `model_GNN_water.py`: contains model classes used for aqueous solubility prediction.
 
-- `notebooks`: contains the jupyter notebooks used.
+- `notebooks/`: contains the jupyter notebooks used.
   - `add_molecular_size_and_polarity.ipynb`: adds columns of molecular weight and TPSA to the solute and solvent lists datasets.
   - `compatibilize_water_solubility_with_rittig_architecture.ipynb`: adds columns of solute_id and solvent_id to training and testing datasets 
   - `merge_water_solubility_datasets.ipynb`: merges all four training datasets, adds canonical smiles and removes duplicates present in the resulting training/testing datasets.
-  - `morgan_fingerprint_dataset_generator.ipynb`: adds columns of Morgan and MACCS fingerprints to training/testing datasets in a failed attempt of increasing model performance.
+  - `morgan_fingerprint_dataset_generator.ipynb`: adds columns of Morgan and MACCS fingerprints to training/testing datasets, which was used as one of the benchmarks to verify model performance.
 
-- `results_BO`:
+- `results_BO/`: contains mainly the database files (.db) of _some_ of the Bayesian Optimization trials done.
 
-- `results_hybrids`:
+- `results_hybrids/`: contains the model weights, training loss arrays, and validation loss arrays for the attempted hybrid GNN-XGB models that included Morgan or MACCS fingerprints.
 
-- `results_water`:
+- `results_water/`: contains the model weights, training loss arrays, validation loss arrays, training indices, and validation indices of each of the 5-fold cross validation instance for models trained. Contains also the weights of the models retrained over the whole training dataset.
 
-- `util_water`:
-  -**atom_feat_encoding_water.py**:
-  -**data_splitting_water.py**:
-  -**generate_dataset_for_training.py**:
+- `util_water/`: contains different methods for constructing the molecular graphs and loading the training dataset.
+  - **atom_feat_encoding_water.py**: collection of classes and methods that encode features for the molecular graphs.
+  - **data_splitting_water.py**: methods for splitting the training/validation datasets.
+  - **generate_dataset_for_training.py**: classes and methods for generating the datasets in a dataclass format, in which the molecular graphs are constructed.
 
-- **
+- **Files for 5-fold cross validation training**:
+  - **train_Rittig.py**: original file used by Rittig & Mitsos (2024) in their activity coefficient.
+  - **train_water_solubility.py**: adjusted the Rittig & Mitsos (2024) file for aqueous solubility.
+  - **train_water_hybrid_GNN-XGB.py**: attempted to train a hybrid GNN-XGB model, which replaced the MLP module by a XGB machine, but failed in increasing performance.
+  - **train_water_XGB-Morgan_or_MACCS.py**: used to train an XGB model based on molecular fingerprint to construct one of the benchmarks to assess model performance.
+
+- **Files for retraining with whole training dataset**:
+  - **retrain_water_solubility_whole_dataset.py**: retrains aqueous solubility models over the whole dataset.
+  - **retrain_water_hybrid_GNN-XGB_whole_dataset.py**: retrains hybrid GNN-XGB model over the whole dataset.
+  - **retrain_water_hybrid_GNN-XGB_whole_dataset_ONLY_XGB.py**: retrains only the XGB module over the whole dataset.
+  
+- **Files for hyperparameter optimization**:
+  - **BO_RittigPure.py**: used for optimizing purely Rittig-based architecture.
+  - **BO_RittigPure_fittingparam.py**: used to fit training parameters in a second step fashion.
+  - **BO_Rittig_Abranches.py**: used for optimizing hybrid Rittig-Abranches architecture (main proposed model).
+  - **BO_Rittig_Abranches_fittingparam.py**: used to fit training parameters in a second step fashion.
+  - **BO_Rittig_Abranches_variant.py**: used for optimizing a simplified version of the hybrid Rittig-Abranches architecture.
+  - **BO_Rittig_Abranches_variant_fittingparam.py**: used to fit training parameters in a second step fashion.
+
+- **Files for model testing**
+  - **test_models.ipynb**: generic notebook to test whichever aqueous solubility or activity coefficient model.
+  - **infer_Rittig.py**:  original file used by Rittig & Mitsos (2024) for testing activity coefficient models.
 
